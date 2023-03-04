@@ -1,0 +1,14 @@
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\bin\Debug\netcoreapp3.1\T01-HelloSoftUni.exe
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\bin\Debug\netcoreapp3.1\T01-HelloSoftUni.deps.json
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\bin\Debug\netcoreapp3.1\T01-HelloSoftUni.runtimeconfig.json
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\bin\Debug\netcoreapp3.1\T01-HelloSoftUni.runtimeconfig.dev.json
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\bin\Debug\netcoreapp3.1\T01-HelloSoftUni.dll
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\bin\Debug\netcoreapp3.1\T01-HelloSoftUni.pdb
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.csproj.AssemblyReference.cache
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.AssemblyInfoInputs.cache
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.AssemblyInfo.cs
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.csproj.CoreCompileInputs.cache
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.dll
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.pdb
+E:\New folder\T01-HelloSoftUni\T01-HelloSoftUni\obj\Debug\netcoreapp3.1\T01-HelloSoftUni.genruntimeconfig.cache
