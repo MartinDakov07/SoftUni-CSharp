@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.exe
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.deps.json
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+E:\New folder\FirstStepsInCoding\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.genruntimeconfig.cache

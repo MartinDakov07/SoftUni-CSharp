@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.exe
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.deps.json
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+E:\New folder\FirstStepsInCoding\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.genruntimeconfig.cache

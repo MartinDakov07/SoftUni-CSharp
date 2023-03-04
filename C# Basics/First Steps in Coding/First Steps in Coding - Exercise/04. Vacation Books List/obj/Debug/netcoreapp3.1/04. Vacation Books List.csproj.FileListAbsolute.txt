@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.exe
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.deps.json
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.dll
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.pdb
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.dll
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.pdb
+E:\New folder\FirstStepsInCoding\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.genruntimeconfig.cache

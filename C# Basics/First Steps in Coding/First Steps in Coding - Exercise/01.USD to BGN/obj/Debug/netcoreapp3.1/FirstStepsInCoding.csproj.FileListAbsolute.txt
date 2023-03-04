@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\netcoreapp3.1\FirstStepsInCoding.exe
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\netcoreapp3.1\FirstStepsInCoding.deps.json
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\netcoreapp3.1\FirstStepsInCoding.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\netcoreapp3.1\FirstStepsInCoding.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\netcoreapp3.1\FirstStepsInCoding.dll
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\netcoreapp3.1\FirstStepsInCoding.pdb
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.dll
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.pdb
+E:\New folder\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\netcoreapp3.1\FirstStepsInCoding.genruntimeconfig.cache

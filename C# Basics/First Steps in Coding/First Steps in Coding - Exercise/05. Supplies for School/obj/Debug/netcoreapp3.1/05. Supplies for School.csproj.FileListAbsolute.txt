@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.exe
+E:\New folder\FirstStepsInCoding\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.deps.json
+E:\New folder\FirstStepsInCoding\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.dll
+E:\New folder\FirstStepsInCoding\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.pdb
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.dll
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.pdb
+E:\New folder\FirstStepsInCoding\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.genruntimeconfig.cache

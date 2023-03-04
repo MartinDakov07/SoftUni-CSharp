@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.exe
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.deps.json
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+E:\New folder\FirstStepsInCoding\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.genruntimeconfig.cache

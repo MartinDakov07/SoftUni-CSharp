@@ -1,0 +1,14 @@
+E:\New folder\FirstStepsInCoding\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.exe
+E:\New folder\FirstStepsInCoding\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.deps.json
+E:\New folder\FirstStepsInCoding\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.json
+E:\New folder\FirstStepsInCoding\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.dev.json
+E:\New folder\FirstStepsInCoding\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.dll
+E:\New folder\FirstStepsInCoding\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.pdb
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.AssemblyReference.cache
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfoInputs.cache
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfo.cs
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.CoreCompileInputs.cache
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.dll
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.pdb
+E:\New folder\FirstStepsInCoding\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.genruntimeconfig.cache
