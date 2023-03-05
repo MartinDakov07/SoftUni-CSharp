@@ -1,0 +1,14 @@
+E:\New folder\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.exe
+E:\New folder\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.deps.json
+E:\New folder\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.json
+E:\New folder\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.dev.json
+E:\New folder\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.dll
+E:\New folder\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.pdb
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.AssemblyReference.cache
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfoInputs.cache
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfo.cs
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.CoreCompileInputs.cache
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.dll
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.pdb
+E:\New folder\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.genruntimeconfig.cache
