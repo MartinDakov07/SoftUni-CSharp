@@ -1,0 +1,14 @@
+E:\New folder\ConditionalStatementsLab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.exe
+E:\New folder\ConditionalStatementsLab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.deps.json
+E:\New folder\ConditionalStatementsLab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.json
+E:\New folder\ConditionalStatementsLab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.dev.json
+E:\New folder\ConditionalStatementsLab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.dll
+E:\New folder\ConditionalStatementsLab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.pdb
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.AssemblyReference.cache
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfoInputs.cache
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfo.cs
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.CoreCompileInputs.cache
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.dll
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.pdb
+E:\New folder\ConditionalStatementsLab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.genruntimeconfig.cache
