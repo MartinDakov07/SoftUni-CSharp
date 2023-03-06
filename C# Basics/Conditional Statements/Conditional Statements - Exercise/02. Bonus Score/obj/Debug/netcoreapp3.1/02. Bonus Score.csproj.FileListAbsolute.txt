@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfo.cs
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.exe
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.deps.json
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.json
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.dev.json
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.dll
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.pdb
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.dll
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.pdb
+E:\New folder\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.genruntimeconfig.cache
