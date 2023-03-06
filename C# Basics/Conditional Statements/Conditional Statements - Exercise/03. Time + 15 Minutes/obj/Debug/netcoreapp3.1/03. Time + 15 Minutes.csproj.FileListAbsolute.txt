@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.exe
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.deps.json
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.json
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.dev.json
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfo.cs
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+E:\New folder\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.genruntimeconfig.cache
