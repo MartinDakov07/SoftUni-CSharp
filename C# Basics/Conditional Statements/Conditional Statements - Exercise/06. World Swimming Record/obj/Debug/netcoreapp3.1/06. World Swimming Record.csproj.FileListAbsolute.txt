@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.exe
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.deps.json
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.runtimeconfig.json
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.runtimeconfig.dev.json
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.dll
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.pdb
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.AssemblyInfo.cs
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.dll
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.pdb
+E:\New folder\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.genruntimeconfig.cache
