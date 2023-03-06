@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\01. Sum Seconds.exe
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\01. Sum Seconds.deps.json
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.json
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.dev.json
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\01. Sum Seconds.dll
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfo.cs
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.dll
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+E:\New folder\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\01. Sum Seconds.genruntimeconfig.cache
