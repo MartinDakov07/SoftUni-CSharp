@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.exe
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.deps.json
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+E:\New folder\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.genruntimeconfig.cache
