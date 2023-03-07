@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+E:\New folder\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache
