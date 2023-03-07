@@ -1,0 +1,5 @@
+E:\New folder\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Lab\Conditional Statements Advanced - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
