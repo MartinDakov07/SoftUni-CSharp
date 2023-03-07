@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+E:\New folder\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache
