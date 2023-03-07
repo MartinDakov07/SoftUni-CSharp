@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.exe
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.deps.json
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.dll
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.pdb
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.dll
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.pdb
+E:\New folder\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.genruntimeconfig.cache
