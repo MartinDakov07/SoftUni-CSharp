@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.exe
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.deps.json
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.dll
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.pdb
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.dll
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.pdb
+E:\New folder\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.genruntimeconfig.cache
