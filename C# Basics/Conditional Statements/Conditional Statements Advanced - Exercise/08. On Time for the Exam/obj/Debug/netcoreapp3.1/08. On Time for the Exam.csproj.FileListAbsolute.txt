@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.exe
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.deps.json
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+E:\New folder\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.genruntimeconfig.cache
