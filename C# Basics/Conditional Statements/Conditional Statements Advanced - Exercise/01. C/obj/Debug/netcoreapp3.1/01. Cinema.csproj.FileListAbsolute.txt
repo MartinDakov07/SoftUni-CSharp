@@ -1,0 +1,14 @@
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.exe
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.deps.json
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.runtimeconfig.json
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.runtimeconfig.dev.json
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.dll
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.pdb
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.csproj.AssemblyReference.cache
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.AssemblyInfoInputs.cache
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.AssemblyInfo.cs
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.csproj.CoreCompileInputs.cache
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.dll
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.pdb
+E:\New folder\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.genruntimeconfig.cache
