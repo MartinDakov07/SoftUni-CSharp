@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.exe
+E:\New folder\For Loop - Exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.deps.json
+E:\New folder\For Loop - Exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.runtimeconfig.json
+E:\New folder\For Loop - Exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.dll
+E:\New folder\For Loop - Exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.pdb
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.dll
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.pdb
+E:\New folder\For Loop - Exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.genruntimeconfig.cache
