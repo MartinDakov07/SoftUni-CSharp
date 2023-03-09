@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.exe
+E:\New folder\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.deps.json
+E:\New folder\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.json
+E:\New folder\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.dll
+E:\New folder\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.dll
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+E:\New folder\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.genruntimeconfig.cache
