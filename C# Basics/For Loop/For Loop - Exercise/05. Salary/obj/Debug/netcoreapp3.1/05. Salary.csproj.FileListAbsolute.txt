@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.exe
+E:\New folder\For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.deps.json
+E:\New folder\For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.runtimeconfig.json
+E:\New folder\For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.dll
+E:\New folder\For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.pdb
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.dll
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.pdb
+E:\New folder\For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.genruntimeconfig.cache
