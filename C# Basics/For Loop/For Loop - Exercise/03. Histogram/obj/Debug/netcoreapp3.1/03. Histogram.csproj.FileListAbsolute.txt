@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.exe
+E:\New folder\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.deps.json
+E:\New folder\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.json
+E:\New folder\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.dll
+E:\New folder\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.pdb
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.dll
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.pdb
+E:\New folder\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.genruntimeconfig.cache
