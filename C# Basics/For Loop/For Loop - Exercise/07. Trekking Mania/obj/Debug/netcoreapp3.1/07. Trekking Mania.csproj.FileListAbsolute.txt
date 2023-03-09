@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.exe
+E:\New folder\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.deps.json
+E:\New folder\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.json
+E:\New folder\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.dll
+E:\New folder\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.dll
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+E:\New folder\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.genruntimeconfig.cache
