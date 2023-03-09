@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+E:\New folder\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+E:\New folder\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+E:\New folder\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+E:\New folder\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+E:\New folder\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache
