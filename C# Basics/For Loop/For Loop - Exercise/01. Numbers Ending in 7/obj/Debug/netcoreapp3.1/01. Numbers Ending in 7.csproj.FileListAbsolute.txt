@@ -1,0 +1,14 @@
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.exe
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.deps.json
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.json
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.dev.json
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfo.cs
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+E:\New folder\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.genruntimeconfig.cache
