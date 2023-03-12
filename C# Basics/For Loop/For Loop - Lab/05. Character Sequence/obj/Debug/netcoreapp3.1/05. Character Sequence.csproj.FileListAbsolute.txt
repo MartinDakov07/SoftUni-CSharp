@@ -1,0 +1,14 @@
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.AssemblyReference.cache
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.CoreCompileInputs.cache
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb
+E:\New folder\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.genruntimeconfig.cache
