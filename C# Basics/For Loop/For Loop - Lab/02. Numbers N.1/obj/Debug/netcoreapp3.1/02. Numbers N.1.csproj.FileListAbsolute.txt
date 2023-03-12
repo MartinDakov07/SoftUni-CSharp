@@ -1,0 +1,14 @@
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\bin\Debug\netcoreapp3.1\02. Numbers N.1.exe
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\bin\Debug\netcoreapp3.1\02. Numbers N.1.deps.json
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\bin\Debug\netcoreapp3.1\02. Numbers N.1.runtimeconfig.json
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\bin\Debug\netcoreapp3.1\02. Numbers N.1.runtimeconfig.dev.json
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\bin\Debug\netcoreapp3.1\02. Numbers N.1.dll
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\bin\Debug\netcoreapp3.1\02. Numbers N.1.pdb
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.csproj.AssemblyReference.cache
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.AssemblyInfoInputs.cache
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.AssemblyInfo.cs
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.csproj.CoreCompileInputs.cache
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.dll
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.pdb
+E:\New folder\01. Numbers from 1 to 100\02. Numbers N.1\obj\Debug\netcoreapp3.1\02. Numbers N.1.genruntimeconfig.cache
