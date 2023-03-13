@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.exe
+E:\New folder\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.deps.json
+E:\New folder\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.json
+E:\New folder\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.dev.json
+E:\New folder\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.dll
+E:\New folder\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.pdb
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfo.cs
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.dll
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.pdb
+E:\New folder\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.genruntimeconfig.cache
