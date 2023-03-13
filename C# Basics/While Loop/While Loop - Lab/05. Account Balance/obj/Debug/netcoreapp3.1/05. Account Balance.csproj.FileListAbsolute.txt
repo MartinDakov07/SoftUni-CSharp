@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.exe
+E:\New folder\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.deps.json
+E:\New folder\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.json
+E:\New folder\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.dev.json
+E:\New folder\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.dll
+E:\New folder\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.pdb
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfo.cs
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.dll
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.pdb
+E:\New folder\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.genruntimeconfig.cache

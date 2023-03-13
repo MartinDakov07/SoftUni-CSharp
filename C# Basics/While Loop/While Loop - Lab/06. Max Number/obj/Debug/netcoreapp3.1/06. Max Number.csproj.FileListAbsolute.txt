@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.exe
+E:\New folder\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.deps.json
+E:\New folder\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.json
+E:\New folder\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.dev.json
+E:\New folder\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.dll
+E:\New folder\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.pdb
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfo.cs
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.dll
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.pdb
+E:\New folder\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.genruntimeconfig.cache
