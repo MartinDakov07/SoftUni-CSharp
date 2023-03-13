@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfo.cs
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.exe
+E:\New folder\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.deps.json
+E:\New folder\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.json
+E:\New folder\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.dev.json
+E:\New folder\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.dll
+E:\New folder\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.pdb
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.dll
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.pdb
+E:\New folder\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.genruntimeconfig.cache
