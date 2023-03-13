@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+E:\New folder\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache
