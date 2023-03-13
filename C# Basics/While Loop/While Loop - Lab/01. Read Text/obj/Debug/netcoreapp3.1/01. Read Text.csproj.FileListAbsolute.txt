@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.exe
+E:\New folder\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.deps.json
+E:\New folder\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.runtimeconfig.json
+E:\New folder\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.runtimeconfig.dev.json
+E:\New folder\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.dll
+E:\New folder\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.pdb
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.AssemblyInfo.cs
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.dll
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.pdb
+E:\New folder\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.genruntimeconfig.cache
