@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.exe
+E:\New folder\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.deps.json
+E:\New folder\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.json
+E:\New folder\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.dev.json
+E:\New folder\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.dll
+E:\New folder\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.pdb
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfo.cs
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.dll
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.pdb
+E:\New folder\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.genruntimeconfig.cache
