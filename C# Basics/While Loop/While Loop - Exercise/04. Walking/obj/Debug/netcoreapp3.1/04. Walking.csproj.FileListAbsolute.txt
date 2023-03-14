@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfo.cs
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.exe
+E:\New folder\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.deps.json
+E:\New folder\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.json
+E:\New folder\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.dev.json
+E:\New folder\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.dll
+E:\New folder\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.pdb
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.dll
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.pdb
+E:\New folder\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.genruntimeconfig.cache
