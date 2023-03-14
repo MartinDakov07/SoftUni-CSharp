@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.exe
+E:\New folder\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.deps.json
+E:\New folder\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.runtimeconfig.json
+E:\New folder\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.runtimeconfig.dev.json
+E:\New folder\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.dll
+E:\New folder\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.pdb
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.AssemblyInfo.cs
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.dll
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.pdb
+E:\New folder\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.genruntimeconfig.cache
