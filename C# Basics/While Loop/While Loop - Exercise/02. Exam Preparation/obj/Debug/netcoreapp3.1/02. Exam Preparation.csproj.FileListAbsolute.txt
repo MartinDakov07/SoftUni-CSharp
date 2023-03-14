@@ -1,0 +1,14 @@
+E:\New folder\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+E:\New folder\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+E:\New folder\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+E:\New folder\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+E:\New folder\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+E:\New folder\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.AssemblyReference.cache
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+E:\New folder\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.genruntimeconfig.cache
