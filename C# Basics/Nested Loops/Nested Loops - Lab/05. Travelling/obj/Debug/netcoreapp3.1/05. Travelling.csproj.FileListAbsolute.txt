@@ -1,0 +1,14 @@
+E:\New folder\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.exe
+E:\New folder\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.deps.json
+E:\New folder\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.json
+E:\New folder\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.dev.json
+E:\New folder\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.dll
+E:\New folder\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.pdb
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.AssemblyReference.cache
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfoInputs.cache
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfo.cs
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.CoreCompileInputs.cache
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.dll
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.pdb
+E:\New folder\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.genruntimeconfig.cache
