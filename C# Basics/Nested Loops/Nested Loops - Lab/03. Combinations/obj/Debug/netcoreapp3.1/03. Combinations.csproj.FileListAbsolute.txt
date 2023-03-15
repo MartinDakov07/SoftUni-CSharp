@@ -1,0 +1,14 @@
+E:\New folder\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+E:\New folder\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+E:\New folder\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+E:\New folder\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+E:\New folder\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+E:\New folder\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.AssemblyReference.cache
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.CoreCompileInputs.cache
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb
+E:\New folder\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.genruntimeconfig.cache
