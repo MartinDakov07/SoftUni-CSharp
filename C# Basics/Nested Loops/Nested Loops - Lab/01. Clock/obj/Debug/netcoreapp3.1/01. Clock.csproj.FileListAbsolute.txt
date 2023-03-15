@@ -1,0 +1,14 @@
+E:\New folder\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.exe
+E:\New folder\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.deps.json
+E:\New folder\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.json
+E:\New folder\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.dev.json
+E:\New folder\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.dll
+E:\New folder\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.pdb
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.AssemblyReference.cache
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfoInputs.cache
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfo.cs
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.CoreCompileInputs.cache
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.dll
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.pdb
+E:\New folder\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.genruntimeconfig.cache
