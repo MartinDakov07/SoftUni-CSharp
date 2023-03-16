@@ -1,0 +1,14 @@
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.exe
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.deps.json
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.json
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.dev.json
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.dll
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.AssemblyReference.cache
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfoInputs.cache
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfo.cs
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.CoreCompileInputs.cache
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.dll
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+E:\New folder\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.genruntimeconfig.cache
