@@ -1,0 +1,14 @@
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.AssemblyReference.cache
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+E:\New folder\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache
