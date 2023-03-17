@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\netcoreapp3.1\06. Theatre Promotion.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\netcoreapp3.1\06. Theatre Promotion.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\netcoreapp3.1\06. Theatre Promotion.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\netcoreapp3.1\06. Theatre Promotion.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\netcoreapp3.1\06. Theatre Promotion.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\netcoreapp3.1\06. Theatre Promotion.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\netcoreapp3.1\06. Theatre Promotion.genruntimeconfig.cache
