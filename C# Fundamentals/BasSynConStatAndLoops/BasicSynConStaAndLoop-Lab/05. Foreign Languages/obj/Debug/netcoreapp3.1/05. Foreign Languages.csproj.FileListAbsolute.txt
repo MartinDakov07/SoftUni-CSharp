@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.genruntimeconfig.cache
