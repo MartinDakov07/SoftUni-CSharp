@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache
