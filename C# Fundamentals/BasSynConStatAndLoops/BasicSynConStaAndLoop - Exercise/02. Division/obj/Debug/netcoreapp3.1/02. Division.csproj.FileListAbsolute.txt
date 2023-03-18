@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.genruntimeconfig.cache
