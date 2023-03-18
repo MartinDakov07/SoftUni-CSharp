@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.genruntimeconfig.cache
