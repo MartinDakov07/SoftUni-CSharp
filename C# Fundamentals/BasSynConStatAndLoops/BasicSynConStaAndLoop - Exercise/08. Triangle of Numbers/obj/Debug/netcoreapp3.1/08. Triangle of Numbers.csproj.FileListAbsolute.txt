@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.genruntimeconfig.cache
