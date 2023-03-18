@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.genruntimeconfig.cache
