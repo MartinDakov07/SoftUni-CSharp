@@ -1,0 +1,14 @@
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.exe
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.deps.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.dev.json
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.AssemblyReference.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfoInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfo.cs
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.CoreCompileInputs.cache
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.dll
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.pdb
+E:\New folder\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.genruntimeconfig.cache
