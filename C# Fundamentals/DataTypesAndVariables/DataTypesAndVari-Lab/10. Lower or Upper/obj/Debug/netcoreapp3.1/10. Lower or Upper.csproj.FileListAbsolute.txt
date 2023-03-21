@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+E:\New folder\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache
