@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.exe
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.deps.json
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.json
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+E:\New folder\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.genruntimeconfig.cache
