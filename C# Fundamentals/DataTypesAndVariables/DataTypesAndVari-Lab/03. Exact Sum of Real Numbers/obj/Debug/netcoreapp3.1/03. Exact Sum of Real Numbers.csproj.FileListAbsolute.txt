@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.exe
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.deps.json
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+E:\New folder\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.genruntimeconfig.cache
