@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.exe
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.deps.json
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.json
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.dll
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.dll
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+E:\New folder\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.genruntimeconfig.cache
