@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.exe
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.deps.json
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.json
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.dll
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.dll
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+E:\New folder\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.genruntimeconfig.cache
