@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\New folder\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.genruntimeconfig.cache
