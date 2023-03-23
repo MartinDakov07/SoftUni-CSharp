@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb
+E:\New folder\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.genruntimeconfig.cache
