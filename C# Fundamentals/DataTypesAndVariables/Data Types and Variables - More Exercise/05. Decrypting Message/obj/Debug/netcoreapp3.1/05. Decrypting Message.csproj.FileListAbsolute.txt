@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.exe
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.deps.json
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.json
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.dll
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.dll
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+E:\New folder\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.genruntimeconfig.cache
