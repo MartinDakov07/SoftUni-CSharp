@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.exe
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.deps.json
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.json
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\New folder\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.genruntimeconfig.cache
