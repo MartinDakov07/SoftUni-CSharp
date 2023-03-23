@@ -1,0 +1,14 @@
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.exe
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.deps.json
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.json
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.dev.json
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.AssemblyReference.cache
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfoInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfo.cs
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+E:\New folder\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.genruntimeconfig.cache
