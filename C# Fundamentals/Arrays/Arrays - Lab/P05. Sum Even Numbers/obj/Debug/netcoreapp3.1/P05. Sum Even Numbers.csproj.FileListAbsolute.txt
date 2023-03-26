@@ -1,0 +1,14 @@
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\bin\Debug\netcoreapp3.1\P05. Sum Even Numbers.exe
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\bin\Debug\netcoreapp3.1\P05. Sum Even Numbers.deps.json
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\bin\Debug\netcoreapp3.1\P05. Sum Even Numbers.runtimeconfig.json
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\bin\Debug\netcoreapp3.1\P05. Sum Even Numbers.runtimeconfig.dev.json
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\bin\Debug\netcoreapp3.1\P05. Sum Even Numbers.dll
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\bin\Debug\netcoreapp3.1\P05. Sum Even Numbers.pdb
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.csproj.AssemblyReference.cache
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.AssemblyInfoInputs.cache
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.AssemblyInfo.cs
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.dll
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.pdb
+E:\New folder\Arrays - Lab\P05. Sum Even Numbers\obj\Debug\netcoreapp3.1\P05. Sum Even Numbers.genruntimeconfig.cache

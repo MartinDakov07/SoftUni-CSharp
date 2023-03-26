@@ -1,0 +1,14 @@
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.exe
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.deps.json
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.runtimeconfig.json
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.runtimeconfig.dev.json
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.dll
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.pdb
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.AssemblyInfo.cs
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.dll
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.pdb
+E:\New folder\Arrays - Lab\P06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\P06. Even and Odd Subtraction.genruntimeconfig.cache
