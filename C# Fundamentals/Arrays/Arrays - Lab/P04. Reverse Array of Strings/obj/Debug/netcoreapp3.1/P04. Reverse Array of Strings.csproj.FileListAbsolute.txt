@@ -1,0 +1,14 @@
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.exe
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.deps.json
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.runtimeconfig.json
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.runtimeconfig.dev.json
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.dll
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.pdb
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.csproj.AssemblyReference.cache
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.AssemblyInfoInputs.cache
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.AssemblyInfo.cs
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.dll
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.pdb
+E:\New folder\Arrays - Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.genruntimeconfig.cache
