@@ -1,0 +1,14 @@
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.exe
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.deps.json
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.runtimeconfig.json
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.dll
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.pdb
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.AssemblyInfo.cs
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.dll
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.pdb
+E:\New folder\Arrays - Lab\P02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\P02. Print Numbers in Reverse Order.genruntimeconfig.cache
