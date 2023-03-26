@@ -1,0 +1,14 @@
+E:\New folder\Arrays - Lab\P01. Day of Week\bin\Debug\netcoreapp3.1\P01. Day of Week.exe
+E:\New folder\Arrays - Lab\P01. Day of Week\bin\Debug\netcoreapp3.1\P01. Day of Week.deps.json
+E:\New folder\Arrays - Lab\P01. Day of Week\bin\Debug\netcoreapp3.1\P01. Day of Week.runtimeconfig.json
+E:\New folder\Arrays - Lab\P01. Day of Week\bin\Debug\netcoreapp3.1\P01. Day of Week.runtimeconfig.dev.json
+E:\New folder\Arrays - Lab\P01. Day of Week\bin\Debug\netcoreapp3.1\P01. Day of Week.dll
+E:\New folder\Arrays - Lab\P01. Day of Week\bin\Debug\netcoreapp3.1\P01. Day of Week.pdb
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.csproj.AssemblyReference.cache
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.AssemblyInfoInputs.cache
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.AssemblyInfo.cs
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.csproj.CoreCompileInputs.cache
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.dll
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.pdb
+E:\New folder\Arrays - Lab\P01. Day of Week\obj\Debug\netcoreapp3.1\P01. Day of Week.genruntimeconfig.cache
