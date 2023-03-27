@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb
+E:\Visual Studio codes\Arrays - Exercise2\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.genruntimeconfig.cache
