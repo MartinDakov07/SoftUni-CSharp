@@ -1,0 +1,14 @@
+E:\New folder\Arrays - Exercise2\05.Top Integers\bin\Debug\netcoreapp3.1\05.Top Integers.exe
+E:\New folder\Arrays - Exercise2\05.Top Integers\bin\Debug\netcoreapp3.1\05.Top Integers.deps.json
+E:\New folder\Arrays - Exercise2\05.Top Integers\bin\Debug\netcoreapp3.1\05.Top Integers.runtimeconfig.json
+E:\New folder\Arrays - Exercise2\05.Top Integers\bin\Debug\netcoreapp3.1\05.Top Integers.runtimeconfig.dev.json
+E:\New folder\Arrays - Exercise2\05.Top Integers\bin\Debug\netcoreapp3.1\05.Top Integers.dll
+E:\New folder\Arrays - Exercise2\05.Top Integers\bin\Debug\netcoreapp3.1\05.Top Integers.pdb
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.csproj.AssemblyReference.cache
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.AssemblyInfoInputs.cache
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.AssemblyInfo.cs
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.csproj.CoreCompileInputs.cache
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.dll
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.pdb
+E:\New folder\Arrays - Exercise2\05.Top Integers\obj\Debug\netcoreapp3.1\05.Top Integers.genruntimeconfig.cache
