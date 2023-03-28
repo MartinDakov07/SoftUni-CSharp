@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.exe
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.deps.json
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.runtimeconfig.json
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.dll
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.pdb
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.AssemblyInfo.cs
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.dll
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.pdb
+E:\Visual Studio codes\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence.genruntimeconfig.cache
