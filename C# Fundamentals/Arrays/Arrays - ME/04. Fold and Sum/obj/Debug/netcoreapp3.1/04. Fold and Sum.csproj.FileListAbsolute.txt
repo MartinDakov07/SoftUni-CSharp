@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+E:\Visual Studio codes\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.genruntimeconfig.cache
