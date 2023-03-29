@@ -1,0 +1,14 @@
+E:\New folder\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+E:\New folder\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+E:\New folder\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+E:\New folder\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+E:\New folder\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+E:\New folder\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.AssemblyReference.cache
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+E:\New folder\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache
