@@ -1,0 +1,14 @@
+E:\New folder\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+E:\New folder\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+E:\New folder\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+E:\New folder\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+E:\New folder\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\New folder\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.AssemblyReference.cache
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb
+E:\New folder\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.genruntimeconfig.cache
