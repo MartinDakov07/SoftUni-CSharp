@@ -1,0 +1,14 @@
+E:\New folder\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+E:\New folder\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+E:\New folder\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+E:\New folder\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+E:\New folder\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+E:\New folder\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.AssemblyReference.cache
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb
+E:\New folder\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.genruntimeconfig.cache
