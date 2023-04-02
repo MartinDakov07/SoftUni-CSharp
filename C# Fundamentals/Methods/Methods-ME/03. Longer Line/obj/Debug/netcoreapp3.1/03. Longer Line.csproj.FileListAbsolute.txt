@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.exe
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.deps.json
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.runtimeconfig.json
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.runtimeconfig.dev.json
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.dll
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.pdb
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.AssemblyInfo.cs
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.dll
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.pdb
+E:\Visual Studio codes\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.genruntimeconfig.cache
