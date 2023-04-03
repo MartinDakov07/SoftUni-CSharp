@@ -1,0 +1,14 @@
+E:\New folder\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+E:\New folder\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+E:\New folder\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+E:\New folder\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+E:\New folder\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+E:\New folder\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.AssemblyReference.cache
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+E:\New folder\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache
