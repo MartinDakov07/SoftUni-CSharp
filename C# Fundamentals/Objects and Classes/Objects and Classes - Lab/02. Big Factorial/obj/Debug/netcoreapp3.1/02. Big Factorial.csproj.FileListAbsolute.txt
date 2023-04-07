@@ -1,0 +1,14 @@
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.AssemblyReference.cache
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+E:\New folder\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache
