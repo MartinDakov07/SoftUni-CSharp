@@ -1,0 +1,14 @@
+E:\New folder\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+E:\New folder\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+E:\New folder\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+E:\New folder\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+E:\New folder\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+E:\New folder\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.AssemblyReference.cache
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+E:\New folder\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache
