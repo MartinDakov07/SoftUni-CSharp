@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.exe
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.deps.json
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.runtimeconfig.json
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.runtimeconfig.dev.json
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.dll
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.pdb
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.AssemblyInfo.cs
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.dll
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.pdb
+E:\Visual Studio codes\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.genruntimeconfig.cache
