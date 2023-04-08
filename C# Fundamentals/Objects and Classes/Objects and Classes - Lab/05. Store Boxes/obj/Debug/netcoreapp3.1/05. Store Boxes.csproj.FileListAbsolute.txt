@@ -1,0 +1,14 @@
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\bin\Debug\netcoreapp3.1\05. Store Boxes.exe
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\bin\Debug\netcoreapp3.1\05. Store Boxes.deps.json
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\bin\Debug\netcoreapp3.1\05. Store Boxes.runtimeconfig.json
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\bin\Debug\netcoreapp3.1\05. Store Boxes.runtimeconfig.dev.json
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\bin\Debug\netcoreapp3.1\05. Store Boxes.dll
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\bin\Debug\netcoreapp3.1\05. Store Boxes.pdb
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.csproj.AssemblyReference.cache
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.AssemblyInfoInputs.cache
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.AssemblyInfo.cs
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.csproj.CoreCompileInputs.cache
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.dll
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.pdb
+E:\New folder\Objects and Classes - Lab\05. Store Boxes\obj\Debug\netcoreapp3.1\05. Store Boxes.genruntimeconfig.cache
