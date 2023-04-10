@@ -1,0 +1,14 @@
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.exe
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.deps.json
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.json
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.dev.json
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.dll
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.pdb
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csproj.AssemblyReference.cache
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfoInputs.cache
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfo.cs
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csproj.CoreCompileInputs.cache
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.dll
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.pdb
+E:\New folder\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.genruntimeconfig.cache
