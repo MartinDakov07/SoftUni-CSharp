@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.exe
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.deps.json
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.runtimeconfig.json
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.runtimeconfig.dev.json
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.dll
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.pdb
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.AssemblyInfo.cs
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.dll
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.pdb
+E:\Visual Studio codes\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.genruntimeconfig.cache
