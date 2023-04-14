@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp3.1\03. Speed Racing.exe
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp3.1\03. Speed Racing.deps.json
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp3.1\03. Speed Racing.runtimeconfig.json
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp3.1\03. Speed Racing.runtimeconfig.dev.json
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp3.1\03. Speed Racing.dll
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp3.1\03. Speed Racing.pdb
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.AssemblyInfo.cs
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.dll
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.pdb
+E:\Visual Studio codes\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp3.1\03. Speed Racing.genruntimeconfig.cache
