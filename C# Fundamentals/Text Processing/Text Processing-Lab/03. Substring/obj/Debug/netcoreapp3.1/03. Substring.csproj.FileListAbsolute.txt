@@ -1,0 +1,14 @@
+E:\New folder\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+E:\New folder\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+E:\New folder\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+E:\New folder\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+E:\New folder\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+E:\New folder\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.AssemblyReference.cache
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+E:\New folder\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache
