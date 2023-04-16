@@ -1,0 +1,14 @@
+E:\New folder\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+E:\New folder\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+E:\New folder\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+E:\New folder\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+E:\New folder\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+E:\New folder\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.AssemblyReference.cache
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+E:\New folder\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache
