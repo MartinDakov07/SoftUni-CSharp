@@ -1,0 +1,14 @@
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.AssemblyReference.cache
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.CoreCompileInputs.cache
+E:\New folder\Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+E:\New folder\Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+E:\New folder\Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+E:\New folder\Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+E:\New folder\Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+E:\New folder\Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb
+E:\New folder\Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.genruntimeconfig.cache
