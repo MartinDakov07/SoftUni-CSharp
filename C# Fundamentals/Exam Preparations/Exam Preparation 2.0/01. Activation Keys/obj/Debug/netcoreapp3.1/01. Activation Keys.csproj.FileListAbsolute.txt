@@ -1,0 +1,14 @@
+E:\New folder\Exam Preparation2.0\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+E:\New folder\Exam Preparation2.0\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+E:\New folder\Exam Preparation2.0\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+E:\New folder\Exam Preparation2.0\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+E:\New folder\Exam Preparation2.0\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+E:\New folder\Exam Preparation2.0\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.AssemblyReference.cache
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+E:\New folder\Exam Preparation2.0\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache
