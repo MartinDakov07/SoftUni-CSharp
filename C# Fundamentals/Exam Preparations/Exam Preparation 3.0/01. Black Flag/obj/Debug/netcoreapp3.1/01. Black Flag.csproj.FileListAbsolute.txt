@@ -1,0 +1,14 @@
+E:\New folder\Exam Preparation3.0\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.exe
+E:\New folder\Exam Preparation3.0\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.deps.json
+E:\New folder\Exam Preparation3.0\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.json
+E:\New folder\Exam Preparation3.0\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.dev.json
+E:\New folder\Exam Preparation3.0\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.dll
+E:\New folder\Exam Preparation3.0\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.pdb
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.csproj.AssemblyReference.cache
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfoInputs.cache
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfo.cs
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.csproj.CoreCompileInputs.cache
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.dll
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.pdb
+E:\New folder\Exam Preparation3.0\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.genruntimeconfig.cache
