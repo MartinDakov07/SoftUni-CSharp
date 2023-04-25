@@ -1,0 +1,14 @@
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.AssemblyReference.cache
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+E:\New folder\ExamPreparation4.0\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache
