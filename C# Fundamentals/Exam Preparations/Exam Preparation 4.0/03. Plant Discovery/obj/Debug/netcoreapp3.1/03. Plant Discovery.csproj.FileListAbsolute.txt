@@ -1,0 +1,14 @@
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.AssemblyReference.cache
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+E:\New folder\ExamPreparation4.0\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache
