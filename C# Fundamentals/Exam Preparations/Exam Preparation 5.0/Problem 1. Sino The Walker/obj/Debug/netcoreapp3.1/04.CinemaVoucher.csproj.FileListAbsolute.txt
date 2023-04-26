@@ -1,0 +1,14 @@
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\04.CinemaVoucher.exe
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\04.CinemaVoucher.deps.json
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.json
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.dev.json
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.csproj.AssemblyReference.cache
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfoInputs.cache
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfo.cs
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\04.CinemaVoucher.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\Problem 1. Sino The Walker.exe
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\Problem 1. Sino The Walker.deps.json
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\Problem 1. Sino The Walker.runtimeconfig.json
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\Problem 1. Sino The Walker.runtimeconfig.dev.json
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\Problem 1. Sino The Walker.dll
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\bin\Debug\netcoreapp3.1\Problem 1. Sino The Walker.pdb
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.csproj.AssemblyReference.cache
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.AssemblyInfoInputs.cache
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.AssemblyInfo.cs
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.csproj.CoreCompileInputs.cache
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.dll
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.pdb
+E:\New folder\JustPracticing-Part1\Problem 1. Sino The Walker\obj\Debug\netcoreapp3.1\Problem 1. Sino The Walker.genruntimeconfig.cache
