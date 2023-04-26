@@ -1,0 +1,14 @@
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.exe
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.deps.json
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.runtimeconfig.json
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.runtimeconfig.dev.json
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.dll
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.pdb
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.csproj.AssemblyReference.cache
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.AssemblyInfoInputs.cache
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.AssemblyInfo.cs
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.csproj.CoreCompileInputs.cache
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.dll
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.pdb
+E:\New folder\JustPracticing-Part1\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.genruntimeconfig.cache
