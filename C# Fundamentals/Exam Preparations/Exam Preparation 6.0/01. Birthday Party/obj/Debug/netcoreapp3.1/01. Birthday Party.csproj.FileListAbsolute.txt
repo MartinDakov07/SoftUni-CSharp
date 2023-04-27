@@ -1,0 +1,14 @@
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.exe
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.deps.json
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.runtimeconfig.json
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.runtimeconfig.dev.json
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.dll
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.pdb
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.csproj.AssemblyReference.cache
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.AssemblyInfoInputs.cache
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.AssemblyInfo.cs
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.csproj.CoreCompileInputs.cache
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.dll
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.pdb
+E:\New folder\Just Practicing- Part 2\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.genruntimeconfig.cache
