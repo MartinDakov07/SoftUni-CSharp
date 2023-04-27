@@ -1,0 +1,14 @@
+E:\New folder\Just Practicing- Part 2\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.exe
+E:\New folder\Just Practicing- Part 2\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.deps.json
+E:\New folder\Just Practicing- Part 2\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.json
+E:\New folder\Just Practicing- Part 2\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.dev.json
+E:\New folder\Just Practicing- Part 2\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.dll
+E:\New folder\Just Practicing- Part 2\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.pdb
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.AssemblyReference.cache
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfoInputs.cache
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfo.cs
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.CoreCompileInputs.cache
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.dll
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.pdb
+E:\New folder\Just Practicing- Part 2\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.genruntimeconfig.cache
