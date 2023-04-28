@@ -1,0 +1,14 @@
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csproj.AssemblyReference.cache
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfoInputs.cache
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfo.cs
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csproj.CoreCompileInputs.cache
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.exe
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.deps.json
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.json
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.dev.json
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.dll
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.dll
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+E:\New folder\JustPracitcing-Part3\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.genruntimeconfig.cache
