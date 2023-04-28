@@ -1,0 +1,14 @@
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.exe
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.deps.json
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.json
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.dev.json
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.dll
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.pdb
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csproj.AssemblyReference.cache
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfoInputs.cache
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfo.cs
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csproj.CoreCompileInputs.cache
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.dll
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.pdb
+E:\New folder\JustPracitcing-Part3\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.genruntimeconfig.cache
