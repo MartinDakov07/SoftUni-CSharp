@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.exe
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.deps.json
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.json
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+E:\New folder\SummerPractise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.genruntimeconfig.cache

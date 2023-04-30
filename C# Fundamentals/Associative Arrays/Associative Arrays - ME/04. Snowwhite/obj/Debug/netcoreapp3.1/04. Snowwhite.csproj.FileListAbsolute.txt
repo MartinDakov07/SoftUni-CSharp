@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.exe
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.deps.json
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.json
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.dev.json
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.dll
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.pdb
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfo.cs
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.dll
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.pdb
+E:\Visual Studio codes\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.genruntimeconfig.cache
