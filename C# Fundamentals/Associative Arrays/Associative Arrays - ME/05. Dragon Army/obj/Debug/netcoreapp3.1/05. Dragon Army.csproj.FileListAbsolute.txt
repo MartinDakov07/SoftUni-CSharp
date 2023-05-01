@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.exe
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.deps.json
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.runtimeconfig.json
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.runtimeconfig.dev.json
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.dll
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.pdb
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.AssemblyInfo.cs
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.dll
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.pdb
+E:\Visual Studio codes\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.genruntimeconfig.cache
