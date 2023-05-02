@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.exe
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.deps.json
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.json
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.dev.json
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.dll
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfo.cs
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.dll
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+E:\Visual Studio codes\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.genruntimeconfig.cache
