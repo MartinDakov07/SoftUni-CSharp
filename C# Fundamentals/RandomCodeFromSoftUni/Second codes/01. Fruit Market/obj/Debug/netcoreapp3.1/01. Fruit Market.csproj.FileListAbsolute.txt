@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise2.0\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.exe
+E:\New folder\SummerPractise2.0\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.deps.json
+E:\New folder\SummerPractise2.0\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.runtimeconfig.json
+E:\New folder\SummerPractise2.0\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.runtimeconfig.dev.json
+E:\New folder\SummerPractise2.0\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.dll
+E:\New folder\SummerPractise2.0\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.pdb
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.AssemblyInfo.cs
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.dll
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.pdb
+E:\New folder\SummerPractise2.0\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.genruntimeconfig.cache
