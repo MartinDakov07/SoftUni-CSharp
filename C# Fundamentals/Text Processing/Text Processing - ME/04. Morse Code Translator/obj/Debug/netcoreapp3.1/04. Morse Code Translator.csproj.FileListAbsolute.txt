@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.exe
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.deps.json
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.json
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.dev.json
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfo.cs
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+E:\Visual Studio codes\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.genruntimeconfig.cache
