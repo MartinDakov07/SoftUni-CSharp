@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise2.0\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.exe
+E:\New folder\SummerPractise2.0\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.deps.json
+E:\New folder\SummerPractise2.0\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.runtimeconfig.json
+E:\New folder\SummerPractise2.0\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.runtimeconfig.dev.json
+E:\New folder\SummerPractise2.0\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.dll
+E:\New folder\SummerPractise2.0\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.pdb
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.AssemblyInfo.cs
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.dll
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.pdb
+E:\New folder\SummerPractise2.0\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.genruntimeconfig.cache
