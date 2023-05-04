@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise2.0\04. Tourist Shop\bin\Debug\netcoreapp3.1\04. Tourist Shop.exe
+E:\New folder\SummerPractise2.0\04. Tourist Shop\bin\Debug\netcoreapp3.1\04. Tourist Shop.deps.json
+E:\New folder\SummerPractise2.0\04. Tourist Shop\bin\Debug\netcoreapp3.1\04. Tourist Shop.runtimeconfig.json
+E:\New folder\SummerPractise2.0\04. Tourist Shop\bin\Debug\netcoreapp3.1\04. Tourist Shop.runtimeconfig.dev.json
+E:\New folder\SummerPractise2.0\04. Tourist Shop\bin\Debug\netcoreapp3.1\04. Tourist Shop.dll
+E:\New folder\SummerPractise2.0\04. Tourist Shop\bin\Debug\netcoreapp3.1\04. Tourist Shop.pdb
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.AssemblyInfo.cs
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.dll
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.pdb
+E:\New folder\SummerPractise2.0\04. Tourist Shop\obj\Debug\netcoreapp3.1\04. Tourist Shop.genruntimeconfig.cache
