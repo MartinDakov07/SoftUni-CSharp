@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.exe
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.deps.json
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.runtimeconfig.json
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.runtimeconfig.dev.json
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.dll
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.pdb
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.AssemblyInfo.cs
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.dll
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.pdb
+E:\New folder\SummerPractise2.0\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.genruntimeconfig.cache
