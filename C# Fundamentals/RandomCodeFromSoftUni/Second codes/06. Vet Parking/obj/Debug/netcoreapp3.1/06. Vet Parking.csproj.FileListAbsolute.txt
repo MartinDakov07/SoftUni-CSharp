@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.AssemblyInfo.cs
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise2.0\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.exe
+E:\New folder\SummerPractise2.0\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.deps.json
+E:\New folder\SummerPractise2.0\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.runtimeconfig.json
+E:\New folder\SummerPractise2.0\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.runtimeconfig.dev.json
+E:\New folder\SummerPractise2.0\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.dll
+E:\New folder\SummerPractise2.0\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.pdb
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.dll
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.pdb
+E:\New folder\SummerPractise2.0\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.genruntimeconfig.cache
