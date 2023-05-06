@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise0.3\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.exe
+E:\New folder\SummerPractise0.3\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.deps.json
+E:\New folder\SummerPractise0.3\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.json
+E:\New folder\SummerPractise0.3\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.dev.json
+E:\New folder\SummerPractise0.3\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.dll
+E:\New folder\SummerPractise0.3\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.pdb
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfo.cs
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.dll
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.pdb
+E:\New folder\SummerPractise0.3\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.genruntimeconfig.cache
