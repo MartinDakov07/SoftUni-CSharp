@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.exe
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.deps.json
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.runtimeconfig.json
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.runtimeconfig.dev.json
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.dll
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.pdb
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.AssemblyInfo.cs
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.dll
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.pdb
+E:\Visual Studio codes\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.genruntimeconfig.cache
