@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise0.3\04. Travel Agency\bin\Debug\netcoreapp3.1\04. Travel Agency.exe
+E:\New folder\SummerPractise0.3\04. Travel Agency\bin\Debug\netcoreapp3.1\04. Travel Agency.deps.json
+E:\New folder\SummerPractise0.3\04. Travel Agency\bin\Debug\netcoreapp3.1\04. Travel Agency.runtimeconfig.json
+E:\New folder\SummerPractise0.3\04. Travel Agency\bin\Debug\netcoreapp3.1\04. Travel Agency.runtimeconfig.dev.json
+E:\New folder\SummerPractise0.3\04. Travel Agency\bin\Debug\netcoreapp3.1\04. Travel Agency.dll
+E:\New folder\SummerPractise0.3\04. Travel Agency\bin\Debug\netcoreapp3.1\04. Travel Agency.pdb
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.AssemblyInfo.cs
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.dll
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.pdb
+E:\New folder\SummerPractise0.3\04. Travel Agency\obj\Debug\netcoreapp3.1\04. Travel Agency.genruntimeconfig.cache
