@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise0.3\08. Football Tournament\bin\Debug\netcoreapp3.1\08. Football Tournament.exe
+E:\New folder\SummerPractise0.3\08. Football Tournament\bin\Debug\netcoreapp3.1\08. Football Tournament.deps.json
+E:\New folder\SummerPractise0.3\08. Football Tournament\bin\Debug\netcoreapp3.1\08. Football Tournament.runtimeconfig.json
+E:\New folder\SummerPractise0.3\08. Football Tournament\bin\Debug\netcoreapp3.1\08. Football Tournament.runtimeconfig.dev.json
+E:\New folder\SummerPractise0.3\08. Football Tournament\bin\Debug\netcoreapp3.1\08. Football Tournament.dll
+E:\New folder\SummerPractise0.3\08. Football Tournament\bin\Debug\netcoreapp3.1\08. Football Tournament.pdb
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.AssemblyInfo.cs
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.dll
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.pdb
+E:\New folder\SummerPractise0.3\08. Football Tournament\obj\Debug\netcoreapp3.1\08. Football Tournament.genruntimeconfig.cache
