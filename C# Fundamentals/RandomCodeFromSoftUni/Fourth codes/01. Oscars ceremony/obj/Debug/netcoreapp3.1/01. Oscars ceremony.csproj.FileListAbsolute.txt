@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.exe
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.deps.json
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.json
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.dev.json
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfo.cs
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+E:\New folder\SummerPractise4.0\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.genruntimeconfig.cache
