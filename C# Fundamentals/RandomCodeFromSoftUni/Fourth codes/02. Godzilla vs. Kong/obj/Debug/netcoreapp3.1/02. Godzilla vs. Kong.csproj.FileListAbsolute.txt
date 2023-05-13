@@ -1,0 +1,14 @@
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong.exe
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong.deps.json
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong.runtimeconfig.json
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong.runtimeconfig.dev.json
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong.dll
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong.pdb
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.csproj.AssemblyReference.cache
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.AssemblyInfoInputs.cache
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.AssemblyInfo.cs
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.dll
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.pdb
+E:\New folder\SummerPractise4.0\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong.genruntimeconfig.cache
