@@ -1,0 +1,14 @@
+E:\New folder\demo test2.0\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.exe
+E:\New folder\demo test2.0\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.deps.json
+E:\New folder\demo test2.0\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.runtimeconfig.json
+E:\New folder\demo test2.0\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.runtimeconfig.dev.json
+E:\New folder\demo test2.0\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.dll
+E:\New folder\demo test2.0\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.pdb
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.csproj.AssemblyReference.cache
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.AssemblyInfoInputs.cache
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.AssemblyInfo.cs
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.csproj.CoreCompileInputs.cache
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.dll
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.pdb
+E:\New folder\demo test2.0\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.genruntimeconfig.cache
