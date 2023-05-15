@@ -1,0 +1,14 @@
+E:\New folder\demo test2.0\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.exe
+E:\New folder\demo test2.0\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.deps.json
+E:\New folder\demo test2.0\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.runtimeconfig.json
+E:\New folder\demo test2.0\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.runtimeconfig.dev.json
+E:\New folder\demo test2.0\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.dll
+E:\New folder\demo test2.0\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.pdb
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.csproj.AssemblyReference.cache
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.AssemblyInfoInputs.cache
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.AssemblyInfo.cs
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.dll
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.pdb
+E:\New folder\demo test2.0\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.genruntimeconfig.cache
