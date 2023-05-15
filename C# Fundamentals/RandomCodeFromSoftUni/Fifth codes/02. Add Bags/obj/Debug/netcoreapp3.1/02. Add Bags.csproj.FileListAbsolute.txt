@@ -1,0 +1,14 @@
+E:\New folder\demo test2.0\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.exe
+E:\New folder\demo test2.0\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.deps.json
+E:\New folder\demo test2.0\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.runtimeconfig.json
+E:\New folder\demo test2.0\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.runtimeconfig.dev.json
+E:\New folder\demo test2.0\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.dll
+E:\New folder\demo test2.0\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.pdb
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.csproj.AssemblyReference.cache
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.AssemblyInfoInputs.cache
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.AssemblyInfo.cs
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.csproj.CoreCompileInputs.cache
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.dll
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.pdb
+E:\New folder\demo test2.0\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.genruntimeconfig.cache
