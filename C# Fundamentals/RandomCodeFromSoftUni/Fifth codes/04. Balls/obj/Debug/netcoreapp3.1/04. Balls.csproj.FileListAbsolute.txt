@@ -1,0 +1,14 @@
+E:\New folder\demo test2.0\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.exe
+E:\New folder\demo test2.0\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.deps.json
+E:\New folder\demo test2.0\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.runtimeconfig.json
+E:\New folder\demo test2.0\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.runtimeconfig.dev.json
+E:\New folder\demo test2.0\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.dll
+E:\New folder\demo test2.0\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.pdb
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.csproj.AssemblyReference.cache
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.AssemblyInfoInputs.cache
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.AssemblyInfo.cs
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.csproj.CoreCompileInputs.cache
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.dll
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.pdb
+E:\New folder\demo test2.0\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.genruntimeconfig.cache
