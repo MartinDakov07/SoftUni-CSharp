@@ -1,0 +1,14 @@
+E:\New folder\demo test2.0\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.exe
+E:\New folder\demo test2.0\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.deps.json
+E:\New folder\demo test2.0\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.json
+E:\New folder\demo test2.0\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.dev.json
+E:\New folder\demo test2.0\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.dll
+E:\New folder\demo test2.0\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.pdb
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.AssemblyReference.cache
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfoInputs.cache
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfo.cs
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.CoreCompileInputs.cache
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.dll
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.pdb
+E:\New folder\demo test2.0\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.genruntimeconfig.cache
