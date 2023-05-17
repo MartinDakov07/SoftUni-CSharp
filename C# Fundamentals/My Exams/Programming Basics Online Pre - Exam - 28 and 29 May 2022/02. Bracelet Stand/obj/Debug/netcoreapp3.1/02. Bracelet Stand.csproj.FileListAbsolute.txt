@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\bin\Debug\netcoreapp3.1\02. Bracelet Stand.exe
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\bin\Debug\netcoreapp3.1\02. Bracelet Stand.deps.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\bin\Debug\netcoreapp3.1\02. Bracelet Stand.runtimeconfig.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\bin\Debug\netcoreapp3.1\02. Bracelet Stand.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\bin\Debug\netcoreapp3.1\02. Bracelet Stand.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\bin\Debug\netcoreapp3.1\02. Bracelet Stand.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\02. Bracelet Stand\obj\Debug\netcoreapp3.1\02. Bracelet Stand.genruntimeconfig.cache
