@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.exe
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.deps.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.runtimeconfig.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.genruntimeconfig.cache
