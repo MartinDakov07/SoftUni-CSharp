@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.exe
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.deps.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.runtimeconfig.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.genruntimeconfig.cache
