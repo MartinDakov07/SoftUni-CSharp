@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.exe
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.deps.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.runtimeconfig.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.dll
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.pdb
+E:\New folder\Programming Basics Online Pre - Exam - 28 and 29 May 2022\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.genruntimeconfig.cache
