@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.exe
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.deps.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.runtimeconfig.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.genruntimeconfig.cache
