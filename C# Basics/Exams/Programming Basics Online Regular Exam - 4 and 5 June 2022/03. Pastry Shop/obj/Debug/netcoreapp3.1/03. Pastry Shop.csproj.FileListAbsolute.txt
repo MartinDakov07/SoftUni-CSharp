@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.exe
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.deps.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.genruntimeconfig.cache
