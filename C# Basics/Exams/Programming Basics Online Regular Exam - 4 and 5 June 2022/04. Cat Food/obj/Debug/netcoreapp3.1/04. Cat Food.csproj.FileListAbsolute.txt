@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\bin\Debug\netcoreapp3.1\04. Cat Food.exe
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\bin\Debug\netcoreapp3.1\04. Cat Food.deps.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\bin\Debug\netcoreapp3.1\04. Cat Food.runtimeconfig.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\bin\Debug\netcoreapp3.1\04. Cat Food.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\bin\Debug\netcoreapp3.1\04. Cat Food.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\bin\Debug\netcoreapp3.1\04. Cat Food.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\04. Cat Food\obj\Debug\netcoreapp3.1\04. Cat Food.genruntimeconfig.cache
