@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.exe
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.deps.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.runtimeconfig.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.genruntimeconfig.cache
