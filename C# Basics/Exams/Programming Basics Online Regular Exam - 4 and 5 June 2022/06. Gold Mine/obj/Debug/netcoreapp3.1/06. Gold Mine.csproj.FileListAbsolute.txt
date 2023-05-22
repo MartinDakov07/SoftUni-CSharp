@@ -1,0 +1,14 @@
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.exe
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.deps.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.dev.json
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.AssemblyReference.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfoInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfo.cs
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.dll
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.pdb
+E:\New folder\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.genruntimeconfig.cache
