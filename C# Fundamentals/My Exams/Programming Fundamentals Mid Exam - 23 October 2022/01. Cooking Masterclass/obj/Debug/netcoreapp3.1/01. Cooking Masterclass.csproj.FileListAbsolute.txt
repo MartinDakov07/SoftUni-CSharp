@@ -1,0 +1,14 @@
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.exe
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.deps.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.runtimeconfig.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.runtimeconfig.dev.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.dll
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.pdb
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.csproj.AssemblyReference.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.AssemblyInfoInputs.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.AssemblyInfo.cs
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.dll
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.pdb
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.genruntimeconfig.cache
