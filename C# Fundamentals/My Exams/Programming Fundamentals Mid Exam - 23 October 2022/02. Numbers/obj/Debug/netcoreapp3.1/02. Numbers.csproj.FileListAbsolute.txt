@@ -1,0 +1,14 @@
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\bin\Debug\netcoreapp3.1\02. Numbers.exe
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\bin\Debug\netcoreapp3.1\02. Numbers.deps.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\bin\Debug\netcoreapp3.1\02. Numbers.runtimeconfig.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\bin\Debug\netcoreapp3.1\02. Numbers.runtimeconfig.dev.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\bin\Debug\netcoreapp3.1\02. Numbers.dll
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\bin\Debug\netcoreapp3.1\02. Numbers.pdb
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.csproj.AssemblyReference.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.AssemblyInfoInputs.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.AssemblyInfo.cs
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.dll
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.pdb
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\02. Numbers\obj\Debug\netcoreapp3.1\02. Numbers.genruntimeconfig.cache
