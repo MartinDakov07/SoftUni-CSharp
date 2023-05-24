@@ -1,0 +1,14 @@
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\bin\Debug\netcoreapp3.1\01. Hogwarts.exe
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\bin\Debug\netcoreapp3.1\01. Hogwarts.deps.json
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\bin\Debug\netcoreapp3.1\01. Hogwarts.runtimeconfig.json
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\bin\Debug\netcoreapp3.1\01. Hogwarts.runtimeconfig.dev.json
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\bin\Debug\netcoreapp3.1\01. Hogwarts.dll
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\bin\Debug\netcoreapp3.1\01. Hogwarts.pdb
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.csproj.AssemblyReference.cache
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.AssemblyInfoInputs.cache
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.AssemblyInfo.cs
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.dll
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.pdb
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\01. Hogwarts\obj\Debug\netcoreapp3.1\01. Hogwarts.genruntimeconfig.cache
