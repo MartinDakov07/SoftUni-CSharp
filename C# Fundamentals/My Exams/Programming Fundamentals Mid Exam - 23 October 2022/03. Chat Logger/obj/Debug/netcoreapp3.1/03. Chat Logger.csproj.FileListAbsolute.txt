@@ -1,0 +1,14 @@
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\bin\Debug\netcoreapp3.1\03. Chat Logger.exe
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\bin\Debug\netcoreapp3.1\03. Chat Logger.deps.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\bin\Debug\netcoreapp3.1\03. Chat Logger.runtimeconfig.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\bin\Debug\netcoreapp3.1\03. Chat Logger.runtimeconfig.dev.json
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\bin\Debug\netcoreapp3.1\03. Chat Logger.dll
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\bin\Debug\netcoreapp3.1\03. Chat Logger.pdb
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.csproj.AssemblyReference.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.AssemblyInfoInputs.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.AssemblyInfo.cs
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.dll
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.pdb
+E:\New folder\Programming Fundamentals Mid Exam - 23 October 2022\03. Chat Logger\obj\Debug\netcoreapp3.1\03. Chat Logger.genruntimeconfig.cache
