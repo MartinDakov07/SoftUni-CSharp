@@ -1,0 +1,14 @@
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\bin\Debug\netcoreapp3.1\03. Degustation Party.exe
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\bin\Debug\netcoreapp3.1\03. Degustation Party.deps.json
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\bin\Debug\netcoreapp3.1\03. Degustation Party.runtimeconfig.json
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\bin\Debug\netcoreapp3.1\03. Degustation Party.runtimeconfig.dev.json
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\bin\Debug\netcoreapp3.1\03. Degustation Party.dll
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\bin\Debug\netcoreapp3.1\03. Degustation Party.pdb
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.csproj.AssemblyReference.cache
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.AssemblyInfoInputs.cache
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.AssemblyInfo.cs
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.csproj.CoreCompileInputs.cache
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.dll
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.pdb
+E:\New folder\Programming Fundamentals Final Exam - 4 December 2022\03. Degustation Party\obj\Debug\netcoreapp3.1\03. Degustation Party.genruntimeconfig.cache
