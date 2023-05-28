@@ -1,0 +1,14 @@
+E:\New folder\DemoTest\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.exe
+E:\New folder\DemoTest\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.deps.json
+E:\New folder\DemoTest\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.runtimeconfig.json
+E:\New folder\DemoTest\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.runtimeconfig.dev.json
+E:\New folder\DemoTest\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.dll
+E:\New folder\DemoTest\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.pdb
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.AssemblyReference.cache
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfoInputs.cache
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfo.cs
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.CoreCompileInputs.cache
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.dll
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.pdb
+E:\New folder\DemoTest\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.genruntimeconfig.cache
