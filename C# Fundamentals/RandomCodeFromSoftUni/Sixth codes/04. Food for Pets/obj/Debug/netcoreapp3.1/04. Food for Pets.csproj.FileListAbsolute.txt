@@ -1,0 +1,14 @@
+E:\New folder\DemoTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.exe
+E:\New folder\DemoTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.deps.json
+E:\New folder\DemoTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.runtimeconfig.json
+E:\New folder\DemoTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.runtimeconfig.dev.json
+E:\New folder\DemoTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.dll
+E:\New folder\DemoTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.pdb
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.csproj.AssemblyReference.cache
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.AssemblyInfoInputs.cache
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.AssemblyInfo.cs
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.csproj.CoreCompileInputs.cache
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.dll
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.pdb
+E:\New folder\DemoTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.genruntimeconfig.cache
