@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb
+E:\Visual Studio codes\Arrays - Exercise2\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.genruntimeconfig.cache
