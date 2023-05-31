@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0I1TR0sllXLOwcELcxQyYPvpvtHFAgbSHZ2RQzMZ117iLVkQZ1Y6BFO/NbkYffPJOp+Re2wKZe3Y7YdIL8y7vw==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
