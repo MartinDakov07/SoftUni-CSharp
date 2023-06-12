@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ke+elqC/3xdNrFS6u0Xttn3P4juoT+LEpeo0Am9cmgrWuSNicPDP3pQFEZco3G2WriC47KkSIYH22IXhwz4CGQ==",
+  "dgSpecHash": "JLXyKWrE+8AcEBybSHZ6qxnlVbonOBNPUu9LR3ptaFehfKEZmAmZaSJihOkjNYshYPM272ZGcbUK4memWwM5uA==",
   "success": true,
-  "projectFilePath": "E:\\New folder\\Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Visual Studio codes\\Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
