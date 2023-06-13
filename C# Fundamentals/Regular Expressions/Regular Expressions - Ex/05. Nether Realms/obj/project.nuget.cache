@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HOkE66LPfo3l1z2IYWkGatIXIPWxbNT33LGDYIogO3zFiLrMadG8wJJTTxU1Mcb02qaIe3WU07bqe3HIYmKZwA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\Regular Expressions - Exercise\\05. Nether Realms\\05. Nether Realms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
