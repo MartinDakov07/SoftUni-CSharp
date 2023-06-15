@@ -1,0 +1,14 @@
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.exe
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.deps.json
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.runtimeconfig.json
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.runtimeconfig.dev.json
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.dll
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.pdb
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.csproj.AssemblyReference.cache
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.AssemblyInfoInputs.cache
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.AssemblyInfo.cs
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.dll
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.pdb
+E:\Visual Studio codes\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.genruntimeconfig.cache
