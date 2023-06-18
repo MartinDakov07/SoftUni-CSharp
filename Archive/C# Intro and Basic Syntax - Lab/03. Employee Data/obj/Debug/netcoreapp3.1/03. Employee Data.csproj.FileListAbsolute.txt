@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\bin\Debug\netcoreapp3.1\03. Employee Data.exe
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\bin\Debug\netcoreapp3.1\03. Employee Data.deps.json
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\bin\Debug\netcoreapp3.1\03. Employee Data.runtimeconfig.json
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\bin\Debug\netcoreapp3.1\03. Employee Data.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\bin\Debug\netcoreapp3.1\03. Employee Data.dll
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\bin\Debug\netcoreapp3.1\03. Employee Data.pdb
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.AssemblyInfo.cs
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.dll
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.pdb
+C:\Users\User\source\repos\01. Greeting\03. Employee Data\obj\Debug\netcoreapp3.1\03. Employee Data.genruntimeconfig.cache
