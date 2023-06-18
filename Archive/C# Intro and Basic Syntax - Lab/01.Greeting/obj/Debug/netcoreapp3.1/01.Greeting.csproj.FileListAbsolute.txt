@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\bin\Debug\netcoreapp3.1\01.Greeting.exe
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\bin\Debug\netcoreapp3.1\01.Greeting.deps.json
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\bin\Debug\netcoreapp3.1\01.Greeting.runtimeconfig.json
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\bin\Debug\netcoreapp3.1\01.Greeting.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\bin\Debug\netcoreapp3.1\01.Greeting.dll
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\bin\Debug\netcoreapp3.1\01.Greeting.pdb
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.AssemblyInfo.cs
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.dll
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.pdb
+C:\Users\User\source\repos\01. Greeting\C# Intro and Basic Syntax - Lab\obj\Debug\netcoreapp3.1\01.Greeting.genruntimeconfig.cache
