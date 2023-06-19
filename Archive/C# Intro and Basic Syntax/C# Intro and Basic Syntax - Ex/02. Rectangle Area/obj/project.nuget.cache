@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkQTYFgv+wAnOQsE33BWDjXEfpGfn49Y7dN8/LPhafumS7TBcy39wSPHSjrtZT/BkNlWJLLkccqCY7wkxpLOTg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Intro and Basic Syntax - Exercises\\02. Rectangle Area\\02. Rectangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
