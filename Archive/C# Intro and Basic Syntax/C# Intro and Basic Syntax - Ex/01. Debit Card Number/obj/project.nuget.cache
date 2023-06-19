@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1+LfBbr7WQPPRcTxPZvm5R+tBX/bIZd+CSac7BXyZme10astb09qBUMdXAxA48sO215KuGY2CfRAhhUkQ0ANw==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Intro and Basic Syntax - Exercises\\01. Debit Card Number\\01. Debit Card Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
