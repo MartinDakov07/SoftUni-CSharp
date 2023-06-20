@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\netcoreapp3.1\05. Character Stats.exe
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\netcoreapp3.1\05. Character Stats.deps.json
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\netcoreapp3.1\05. Character Stats.runtimeconfig.json
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\netcoreapp3.1\05. Character Stats.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\netcoreapp3.1\05. Character Stats.dll
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\netcoreapp3.1\05. Character Stats.pdb
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.AssemblyInfo.cs
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.dll
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.pdb
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\netcoreapp3.1\05. Character Stats.genruntimeconfig.cache
