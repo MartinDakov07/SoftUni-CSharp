@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.exe
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.deps.json
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.runtimeconfig.json
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.dll
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.pdb
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.AssemblyInfo.cs
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.dll
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.pdb
+E:\Visual Studio codes\C# Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.genruntimeconfig.cache
