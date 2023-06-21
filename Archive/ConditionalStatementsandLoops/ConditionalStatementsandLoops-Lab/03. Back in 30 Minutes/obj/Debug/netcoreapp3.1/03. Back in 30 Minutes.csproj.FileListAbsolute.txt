@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\bin\Debug\netcoreapp3.1\03. Back in 30 Minutes.exe
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\bin\Debug\netcoreapp3.1\03. Back in 30 Minutes.deps.json
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\bin\Debug\netcoreapp3.1\03. Back in 30 Minutes.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\bin\Debug\netcoreapp3.1\03. Back in 30 Minutes.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\bin\Debug\netcoreapp3.1\03. Back in 30 Minutes.dll
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\bin\Debug\netcoreapp3.1\03. Back in 30 Minutes.pdb
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.dll
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.pdb
+E:\Visual Studio codes\01. Passed\03. Back in 30 Minutes\obj\Debug\netcoreapp3.1\03. Back in 30 Minutes.genruntimeconfig.cache

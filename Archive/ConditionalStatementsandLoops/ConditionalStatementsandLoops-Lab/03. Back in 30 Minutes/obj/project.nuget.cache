@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuAv591z3HH/CAzohGCEuMH5IhdYvYqLuaSINQ4roMd3qAQ1uvP+UfL7ohwo5Vm8fH6NlUq/DM8dAIrUYYwWuA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Passed\\03. Back in 30 Minutes\\03. Back in 30 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
