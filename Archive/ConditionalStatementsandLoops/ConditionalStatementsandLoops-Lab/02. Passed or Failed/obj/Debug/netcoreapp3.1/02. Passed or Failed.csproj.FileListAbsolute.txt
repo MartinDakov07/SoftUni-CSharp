@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\bin\Debug\netcoreapp3.1\02. Passed or Failed.exe
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\bin\Debug\netcoreapp3.1\02. Passed or Failed.deps.json
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\bin\Debug\netcoreapp3.1\02. Passed or Failed.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\bin\Debug\netcoreapp3.1\02. Passed or Failed.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\bin\Debug\netcoreapp3.1\02. Passed or Failed.dll
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\bin\Debug\netcoreapp3.1\02. Passed or Failed.pdb
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.dll
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.pdb
+E:\Visual Studio codes\01. Passed\02. Passed or Failed\obj\Debug\netcoreapp3.1\02. Passed or Failed.genruntimeconfig.cache
