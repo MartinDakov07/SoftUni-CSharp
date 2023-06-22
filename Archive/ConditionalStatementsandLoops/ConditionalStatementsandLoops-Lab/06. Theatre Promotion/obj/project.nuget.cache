@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YO92KxazTJotV6N1jbgno0a1FFB3R05z2juTB7BZ2L8ukCl8Q4FPtfKpftdMRPQ8FA8nDASD+rDq7W04UDoQDg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Passed\\06. Theatre Promotion\\06. Theatre Promotion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
