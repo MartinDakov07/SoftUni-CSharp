@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4hclAuKLdEXYP8B+3KRC0M8Hb0t1xMgQG9XA/pgp4vDpEYCzalcOoz19WepK1pID1bKXlNzBfJNLFxvXEaCMlg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Passed\\05. Foreign Languages\\05. Foreign Languages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

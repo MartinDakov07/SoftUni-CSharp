@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.exe
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.deps.json
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.dll
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\bin\Debug\netcoreapp3.1\05. Foreign Languages.pdb
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.dll
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.pdb
+E:\Visual Studio codes\01. Passed\05. Foreign Languages\obj\Debug\netcoreapp3.1\05. Foreign Languages.genruntimeconfig.cache
