@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\08. Sum of Odd Numbers.exe
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\08. Sum of Odd Numbers.deps.json
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\08. Sum of Odd Numbers.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\08. Sum of Odd Numbers.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\08. Sum of Odd Numbers.dll
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\08. Sum of Odd Numbers.pdb
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.dll
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.pdb
+E:\Visual Studio codes\01. Passed\08. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\08. Sum of Odd Numbers.genruntimeconfig.cache
