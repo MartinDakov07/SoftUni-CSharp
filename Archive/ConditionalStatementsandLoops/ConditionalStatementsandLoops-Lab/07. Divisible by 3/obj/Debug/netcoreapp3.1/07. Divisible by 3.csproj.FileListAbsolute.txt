@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\bin\Debug\netcoreapp3.1\07. Divisible by 3.exe
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\bin\Debug\netcoreapp3.1\07. Divisible by 3.deps.json
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\bin\Debug\netcoreapp3.1\07. Divisible by 3.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\bin\Debug\netcoreapp3.1\07. Divisible by 3.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\bin\Debug\netcoreapp3.1\07. Divisible by 3.dll
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\bin\Debug\netcoreapp3.1\07. Divisible by 3.pdb
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.dll
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.pdb
+E:\Visual Studio codes\01. Passed\07. Divisible by 3\obj\Debug\netcoreapp3.1\07. Divisible by 3.genruntimeconfig.cache
