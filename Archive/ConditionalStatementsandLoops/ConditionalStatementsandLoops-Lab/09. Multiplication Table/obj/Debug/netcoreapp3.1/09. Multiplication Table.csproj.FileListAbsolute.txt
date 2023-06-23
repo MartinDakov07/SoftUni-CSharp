@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\bin\Debug\netcoreapp3.1\09. Multiplication Table.exe
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\bin\Debug\netcoreapp3.1\09. Multiplication Table.deps.json
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\bin\Debug\netcoreapp3.1\09. Multiplication Table.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\bin\Debug\netcoreapp3.1\09. Multiplication Table.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\bin\Debug\netcoreapp3.1\09. Multiplication Table.dll
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\bin\Debug\netcoreapp3.1\09. Multiplication Table.pdb
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.dll
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.pdb
+E:\Visual Studio codes\01. Passed\09. Multiplication Table\obj\Debug\netcoreapp3.1\09. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYnRJxc0xdr6BloZLfHjej3X690AVtobiejlHIuejpE5Bb9U55wNrOv4RCN3y8ehcmB/dEkFI4zcKibL7u+RoA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Passed\\09. Multiplication Table\\09. Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
