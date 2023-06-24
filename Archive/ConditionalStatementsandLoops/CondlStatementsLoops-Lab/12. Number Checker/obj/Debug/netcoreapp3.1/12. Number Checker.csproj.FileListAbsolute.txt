@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\12. Number Checker\bin\Debug\netcoreapp3.1\12. Number Checker.exe
+E:\Visual Studio codes\01. Passed\12. Number Checker\bin\Debug\netcoreapp3.1\12. Number Checker.deps.json
+E:\Visual Studio codes\01. Passed\12. Number Checker\bin\Debug\netcoreapp3.1\12. Number Checker.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\12. Number Checker\bin\Debug\netcoreapp3.1\12. Number Checker.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\12. Number Checker\bin\Debug\netcoreapp3.1\12. Number Checker.dll
+E:\Visual Studio codes\01. Passed\12. Number Checker\bin\Debug\netcoreapp3.1\12. Number Checker.pdb
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.dll
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.pdb
+E:\Visual Studio codes\01. Passed\12. Number Checker\obj\Debug\netcoreapp3.1\12. Number Checker.genruntimeconfig.cache

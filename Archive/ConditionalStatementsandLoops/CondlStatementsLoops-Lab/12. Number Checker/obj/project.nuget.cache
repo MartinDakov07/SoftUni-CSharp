@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWBBjwin6gpbgoYu5TA0RUI4IOvHXMeJIOgq1EfbQpbC+sSI+AqQK4NyBB6ZddgJSZz5npD5kYXm00p+ku8QZg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Passed\\12. Number Checker\\12. Number Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
