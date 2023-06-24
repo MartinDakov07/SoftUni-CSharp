@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Passed\11. Odd Number\bin\Debug\netcoreapp3.1\11. Odd Number.exe
+E:\Visual Studio codes\01. Passed\11. Odd Number\bin\Debug\netcoreapp3.1\11. Odd Number.deps.json
+E:\Visual Studio codes\01. Passed\11. Odd Number\bin\Debug\netcoreapp3.1\11. Odd Number.runtimeconfig.json
+E:\Visual Studio codes\01. Passed\11. Odd Number\bin\Debug\netcoreapp3.1\11. Odd Number.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Passed\11. Odd Number\bin\Debug\netcoreapp3.1\11. Odd Number.dll
+E:\Visual Studio codes\01. Passed\11. Odd Number\bin\Debug\netcoreapp3.1\11. Odd Number.pdb
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.AssemblyInfo.cs
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.dll
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.pdb
+E:\Visual Studio codes\01. Passed\11. Odd Number\obj\Debug\netcoreapp3.1\11. Odd Number.genruntimeconfig.cache

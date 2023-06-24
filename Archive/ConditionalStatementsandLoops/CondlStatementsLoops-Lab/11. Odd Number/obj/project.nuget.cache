@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43jQ7der7jhYZRbKtUf9hgxA3FMrSnysEj5KAyoP7f7AH56mdEZoTp14AOxB4M9nK0ZSoiox50PIRDxe8Oh9ZA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Passed\\11. Odd Number\\11. Odd Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
