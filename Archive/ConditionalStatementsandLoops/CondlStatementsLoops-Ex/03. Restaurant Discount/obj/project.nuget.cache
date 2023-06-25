@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1IAIxO4h0EqWUDlvv5eYcsuP4/zpEVr19gdSHGVAJkVIuray3FQhJ/eRq9qQX1yc2x9aGPtpWknigDlvWx395w==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Conditional Statements and Loops - Exercises\\03. Restaurant Discount\\03. Restaurant Discount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
