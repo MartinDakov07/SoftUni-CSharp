@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mmzovkliiuRJGH+WR77zQCndQL1SRQz7wIMG5FpAfkygfypkyuYO723paqvAdpXCKVRH0FPw4r0ji8QHJa/1A==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\01. Choose a Drink\\C# Conditional Statements and Loops - Exercises\\01.Choose a Drink.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
