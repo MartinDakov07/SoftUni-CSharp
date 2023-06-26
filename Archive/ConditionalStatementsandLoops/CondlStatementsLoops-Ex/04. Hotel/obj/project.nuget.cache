@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c42fK1VDWeZRhoFUz2P6HHoiF6lpUV8n20xuQBAKxSgtjaVB5Kt2cwcRF5+D/31hz3OkhQqgtNa2SbFtbrpeqA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Conditional Statements and Loops - Exercises\\04. Hotel\\04. Hotel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

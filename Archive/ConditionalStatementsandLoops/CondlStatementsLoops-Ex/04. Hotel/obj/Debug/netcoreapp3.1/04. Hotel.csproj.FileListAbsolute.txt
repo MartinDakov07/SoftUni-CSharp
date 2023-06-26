@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\bin\Debug\netcoreapp3.1\04. Hotel.exe
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\bin\Debug\netcoreapp3.1\04. Hotel.deps.json
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\bin\Debug\netcoreapp3.1\04. Hotel.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\bin\Debug\netcoreapp3.1\04. Hotel.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\bin\Debug\netcoreapp3.1\04. Hotel.dll
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\bin\Debug\netcoreapp3.1\04. Hotel.pdb
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.dll
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.pdb
+E:\Visual Studio codes\01. Choose a Drink\04. Hotel\obj\Debug\netcoreapp3.1\04. Hotel.genruntimeconfig.cache
