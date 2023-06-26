@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.exe
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.deps.json
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.genruntimeconfig.cache
