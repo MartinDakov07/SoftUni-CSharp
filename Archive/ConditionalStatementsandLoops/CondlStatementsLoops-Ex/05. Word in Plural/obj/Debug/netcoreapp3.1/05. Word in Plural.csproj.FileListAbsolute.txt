@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.exe
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.deps.json
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.dll
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.pdb
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.dll
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.pdb
+E:\Visual Studio codes\01. Choose a Drink\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.genruntimeconfig.cache
