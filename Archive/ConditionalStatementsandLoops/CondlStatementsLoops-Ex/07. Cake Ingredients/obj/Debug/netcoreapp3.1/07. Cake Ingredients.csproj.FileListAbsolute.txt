@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\bin\Debug\netcoreapp3.1\07. Cake Ingredients.exe
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\bin\Debug\netcoreapp3.1\07. Cake Ingredients.deps.json
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\bin\Debug\netcoreapp3.1\07. Cake Ingredients.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\bin\Debug\netcoreapp3.1\07. Cake Ingredients.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\bin\Debug\netcoreapp3.1\07. Cake Ingredients.dll
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\bin\Debug\netcoreapp3.1\07. Cake Ingredients.pdb
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.dll
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.pdb
+E:\Visual Studio codes\01. Choose a Drink\07. Cake Ingredients\obj\Debug\netcoreapp3.1\07. Cake Ingredients.genruntimeconfig.cache
