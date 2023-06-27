@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.exe
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.deps.json
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.dll
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.pdb
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.dll
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.pdb
+E:\Visual Studio codes\01. Choose a Drink\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.genruntimeconfig.cache
