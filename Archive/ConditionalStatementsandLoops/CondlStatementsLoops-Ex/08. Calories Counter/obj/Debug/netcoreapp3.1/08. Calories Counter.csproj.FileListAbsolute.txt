@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.exe
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.deps.json
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.dll
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.pdb
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.dll
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.pdb
+E:\Visual Studio codes\01. Choose a Drink\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.genruntimeconfig.cache
