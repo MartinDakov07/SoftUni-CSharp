@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.exe
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.deps.json
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.genruntimeconfig.cache
