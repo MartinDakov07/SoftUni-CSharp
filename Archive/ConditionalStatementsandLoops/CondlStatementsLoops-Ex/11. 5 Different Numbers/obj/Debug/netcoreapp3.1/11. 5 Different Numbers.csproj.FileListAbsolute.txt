@@ -1,0 +1,28 @@
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.exe
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.deps.json
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.genruntimeconfig.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.exe
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.deps.json
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.runtimeconfig.json
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.dll
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.pdb
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.AssemblyInfo.cs
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.dll
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.pdb
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.genruntimeconfig.cache
