@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsNdIwtE53iOzSXhT3ePJzvRHK2uaG9t7pAjEdnO44RNiepDhA7KNIF+0Lt+BAMwd5y0LPOgA9EOwgAOEkHdBA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Conditional Statements and Loops - Exercises\\15. Neighbour Wars\\15. Neighbour Wars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
