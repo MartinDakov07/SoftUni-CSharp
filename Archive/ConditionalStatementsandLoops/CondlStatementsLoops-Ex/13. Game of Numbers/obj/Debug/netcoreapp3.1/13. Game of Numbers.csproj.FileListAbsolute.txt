@@ -1,0 +1,14 @@
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\bin\Debug\netcoreapp3.1\13. Game of Numbers.exe
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\bin\Debug\netcoreapp3.1\13. Game of Numbers.deps.json
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\bin\Debug\netcoreapp3.1\13. Game of Numbers.runtimeconfig.json
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\bin\Debug\netcoreapp3.1\13. Game of Numbers.runtimeconfig.dev.json
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\bin\Debug\netcoreapp3.1\13. Game of Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\bin\Debug\netcoreapp3.1\13. Game of Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.AssemblyInfo.cs
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.dll
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.pdb
+E:\Visual Studio codes\01. Choose a Drink\13. Game of Numbers\obj\Debug\netcoreapp3.1\13. Game of Numbers.genruntimeconfig.cache
