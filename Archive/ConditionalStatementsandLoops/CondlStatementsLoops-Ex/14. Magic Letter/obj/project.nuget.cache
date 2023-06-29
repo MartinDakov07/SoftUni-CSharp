@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhoFkNMYCMaojxbfLwhcL5UJXMsmupgwyDDbohQkxN3RnFWJKpT0vIjg97bnd2jjHn/OHd/DlMjw7C2D5zOpKQ==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Conditional Statements and Loops - Exercises\\14. Magic Letter\\14. Magic Letter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

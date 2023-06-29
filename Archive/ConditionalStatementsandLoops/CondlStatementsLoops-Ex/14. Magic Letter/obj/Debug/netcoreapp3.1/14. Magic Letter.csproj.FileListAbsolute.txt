@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.exe
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.deps.json
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.runtimeconfig.json
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.dll
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.pdb
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.AssemblyInfo.cs
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.dll
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.pdb
+E:\Visual Studio codes\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.genruntimeconfig.cache
