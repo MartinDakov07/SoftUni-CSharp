@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\bin\Debug\netcoreapp3.1\02. Vapor Store.exe
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\bin\Debug\netcoreapp3.1\02. Vapor Store.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\bin\Debug\netcoreapp3.1\02. Vapor Store.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\bin\Debug\netcoreapp3.1\02. Vapor Store.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\bin\Debug\netcoreapp3.1\02. Vapor Store.dll
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\bin\Debug\netcoreapp3.1\02. Vapor Store.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.dll
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\02. Vapor Store\obj\Debug\netcoreapp3.1\02. Vapor Store.genruntimeconfig.cache

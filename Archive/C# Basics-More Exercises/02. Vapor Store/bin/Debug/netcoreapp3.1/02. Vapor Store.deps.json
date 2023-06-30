@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "02. Vapor Store/1.0.0": {
+        "runtime": {
+          "02. Vapor Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02. Vapor Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
