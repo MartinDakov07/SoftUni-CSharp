@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fc5pkhlLS4b3J4dyWguWoYzuRZt6V5ByD+cb7jBrZZMuQe+SgfszKIOMboWw39A79pJ/z0zqqCEfMtBaboKP6A==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Basics - More Exercises\\04. Photo Gallery\\04. Photo Gallery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

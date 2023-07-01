@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.exe
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.dll
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.dll
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.genruntimeconfig.cache
