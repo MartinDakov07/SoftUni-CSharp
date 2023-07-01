@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\bin\Debug\netcoreapp3.1\03. Megapixels.exe
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\bin\Debug\netcoreapp3.1\03. Megapixels.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\bin\Debug\netcoreapp3.1\03. Megapixels.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\bin\Debug\netcoreapp3.1\03. Megapixels.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\bin\Debug\netcoreapp3.1\03. Megapixels.dll
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\bin\Debug\netcoreapp3.1\03. Megapixels.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.dll
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\03. Megapixels\obj\Debug\netcoreapp3.1\03. Megapixels.genruntimeconfig.cache
