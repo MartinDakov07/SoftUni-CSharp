@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\bin\Debug\netcoreapp3.1\06. DNA Sequences.exe
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\bin\Debug\netcoreapp3.1\06. DNA Sequences.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\bin\Debug\netcoreapp3.1\06. DNA Sequences.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\bin\Debug\netcoreapp3.1\06. DNA Sequences.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\bin\Debug\netcoreapp3.1\06. DNA Sequences.dll
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\bin\Debug\netcoreapp3.1\06. DNA Sequences.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.dll
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\06. DNA Sequences\obj\Debug\netcoreapp3.1\06. DNA Sequences.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vfDoN/NWXwLQQesiK8K/DQ8VTqOtawVXE7daciTBnqdLdqUGTrX8lU1UwYrHoWiyrV4hXsq6i1PvRsHVxxMwFw==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio codes\\C# Basics - More Exercises\\06. DNA Sequences\\06. DNA Sequences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
