@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\bin\Debug\netcoreapp3.1\05. BPM Counter.exe
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\bin\Debug\netcoreapp3.1\05. BPM Counter.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\bin\Debug\netcoreapp3.1\05. BPM Counter.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\bin\Debug\netcoreapp3.1\05. BPM Counter.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\bin\Debug\netcoreapp3.1\05. BPM Counter.dll
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\bin\Debug\netcoreapp3.1\05. BPM Counter.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.dll
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\05. BPM Counter\obj\Debug\netcoreapp3.1\05. BPM Counter.genruntimeconfig.cache
