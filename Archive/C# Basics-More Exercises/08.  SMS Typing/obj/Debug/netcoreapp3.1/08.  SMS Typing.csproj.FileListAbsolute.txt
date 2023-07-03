@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\bin\Debug\netcoreapp3.1\08.  SMS Typing.exe
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\bin\Debug\netcoreapp3.1\08.  SMS Typing.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\bin\Debug\netcoreapp3.1\08.  SMS Typing.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\bin\Debug\netcoreapp3.1\08.  SMS Typing.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\bin\Debug\netcoreapp3.1\08.  SMS Typing.dll
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\bin\Debug\netcoreapp3.1\08.  SMS Typing.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.dll
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\08.  SMS Typing\obj\Debug\netcoreapp3.1\08.  SMS Typing.genruntimeconfig.cache
