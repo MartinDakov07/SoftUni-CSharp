@@ -1,0 +1,14 @@
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.exe
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.deps.json
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.runtimeconfig.json
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.runtimeconfig.dev.json
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.dll
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.csproj.AssemblyReference.cache
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.AssemblyInfoInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.AssemblyInfo.cs
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.dll
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.pdb
+E:\Visual Studio codes\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.genruntimeconfig.cache
