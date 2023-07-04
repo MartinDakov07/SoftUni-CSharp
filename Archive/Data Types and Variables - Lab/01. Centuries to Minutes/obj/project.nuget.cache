@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZM1sDc1lSzAAXbofh8+i5q3QGanxCNV76EawiO5d3yZAYC2xtu/uK3jpnG3I6y/+OPnZnQH70RPE28W2b0b6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Lab\\01. Centuries to Minutes\\01. Centuries to Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
