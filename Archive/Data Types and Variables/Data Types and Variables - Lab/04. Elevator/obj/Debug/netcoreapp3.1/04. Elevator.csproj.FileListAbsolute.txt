@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp3.1\04. Elevator.exe
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp3.1\04. Elevator.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp3.1\04. Elevator.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp3.1\04. Elevator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp3.1\04. Elevator.dll
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp3.1\04. Elevator.pdb
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.dll
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.pdb
+C:\Users\User\source\repos\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp3.1\04. Elevator.genruntimeconfig.cache
