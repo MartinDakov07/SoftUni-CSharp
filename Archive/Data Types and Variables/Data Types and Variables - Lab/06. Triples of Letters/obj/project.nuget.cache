@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zPXxaCgx5t/AJ1JNJrZHyeyw+aFoeoOj3OKdX+Yduq82TW6W3/6WO9n5H/EAWW4fP6a64onXT96mhv/fA6fwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Lab\\06. Triples of Letters\\06. Triples of Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

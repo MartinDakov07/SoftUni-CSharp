@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp3.1\06. Triples of Letters.exe
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp3.1\06. Triples of Letters.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp3.1\06. Triples of Letters.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp3.1\06. Triples of Letters.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp3.1\06. Triples of Letters.dll
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp3.1\06. Triples of Letters.pdb
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.dll
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.pdb
+C:\Users\User\source\repos\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp3.1\06. Triples of Letters.genruntimeconfig.cache
