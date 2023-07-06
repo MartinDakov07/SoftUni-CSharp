@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\User\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache
