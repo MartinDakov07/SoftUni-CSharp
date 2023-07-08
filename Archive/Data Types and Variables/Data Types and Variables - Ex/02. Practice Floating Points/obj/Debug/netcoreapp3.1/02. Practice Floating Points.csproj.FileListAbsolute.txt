@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.genruntimeconfig.cache
