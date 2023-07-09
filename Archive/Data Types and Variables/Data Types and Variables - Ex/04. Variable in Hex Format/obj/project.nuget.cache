@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtmFvDp88rij7J64skSx5rwmkqzUHjXCi1XNGZIyz09tyDAALifPoNRqBtWA1678ezS4Z5fmZvY1V0LlDoDA6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\04. Variable in Hex Format\\04. Variable in Hex Format.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
