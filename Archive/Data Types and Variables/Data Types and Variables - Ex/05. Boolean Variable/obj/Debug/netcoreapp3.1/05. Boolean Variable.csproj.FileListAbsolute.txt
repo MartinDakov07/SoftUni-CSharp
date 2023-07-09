@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sX8d3IartIgkdHaaPXd+DVLlVERaF+1DsC9ot+ppiT97SMxGbafRBlsBWXtTBuSn4fjzjAkBmWREO3loixP88Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\05. Boolean Variable\\05. Boolean Variable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
