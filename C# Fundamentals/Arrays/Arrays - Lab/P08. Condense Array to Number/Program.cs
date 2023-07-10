@@ -23,8 +23,7 @@ namespace P08._Condense_Array_to_Number
                     }
                     
                 }
-            }
-           
+            }           
             Console.WriteLine(numbers[0]);
             //int[] nums = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
             //int[] condenced = new int[nums.Length - 1];
