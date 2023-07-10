@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4wlPbKJ4ms7qwbOi6MS4fUwjuwvyz9Onn6LllXJucvu6U3lcFd958a9D0ZS/oQ6IGyWFahqB+ZPqjLYp5MKzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\08. Employee Data\\08. Employee Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
