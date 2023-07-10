@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.genruntimeconfig.cache
