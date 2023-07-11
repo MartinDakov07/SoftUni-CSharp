@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.genruntimeconfig.cache
