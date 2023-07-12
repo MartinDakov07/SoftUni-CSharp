@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.genruntimeconfig.cache
