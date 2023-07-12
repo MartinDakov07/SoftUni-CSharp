@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.genruntimeconfig.cache

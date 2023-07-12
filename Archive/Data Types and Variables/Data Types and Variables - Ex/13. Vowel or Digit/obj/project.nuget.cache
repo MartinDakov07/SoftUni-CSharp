@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJMDR8t0CmE8u+Yz2WwSsilkUs+TzC8iwuX8NPX80e8Rkf1+fQ+oOzmFqoqKVDfshdsczfxCVXHKrW4uFTvknQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\13. Vowel or Digit\\13. Vowel or Digit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
