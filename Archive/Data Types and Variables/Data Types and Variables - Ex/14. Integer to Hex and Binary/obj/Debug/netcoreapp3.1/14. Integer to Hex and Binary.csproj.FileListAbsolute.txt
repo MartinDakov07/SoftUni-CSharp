@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.genruntimeconfig.cache
