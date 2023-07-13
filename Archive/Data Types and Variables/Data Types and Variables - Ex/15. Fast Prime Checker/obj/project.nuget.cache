@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHkG0EGLxLVqW5VA66ya4WjrT9pEj+Ao6REqneoKbvpzfzUNxDIA70v2ooskdcTyWXq7DzaLyiZgS8S0gHv9AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\15. Fast Prime Checker\\15. Fast Prime Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
