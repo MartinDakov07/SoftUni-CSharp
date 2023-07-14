@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLNdLyCliGgnEPOdsZGck25xVvQ8T5UkUF4h81zOM6NfNAnk0LMGIPoqgJrluKLldSivaqx9YW1/ExYT7n6ggg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\18. Different Integers Size\\18. Different Integers Size.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

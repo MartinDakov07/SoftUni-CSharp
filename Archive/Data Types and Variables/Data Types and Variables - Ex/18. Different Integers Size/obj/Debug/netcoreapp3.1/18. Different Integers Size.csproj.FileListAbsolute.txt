@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp3.1\18. Different Integers Size.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp3.1\18. Different Integers Size.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp3.1\18. Different Integers Size.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp3.1\18. Different Integers Size.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp3.1\18. Different Integers Size.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp3.1\18. Different Integers Size.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp3.1\18. Different Integers Size.genruntimeconfig.cache
