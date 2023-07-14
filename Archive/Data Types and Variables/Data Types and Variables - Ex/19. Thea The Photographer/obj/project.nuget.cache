@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8xHgBYlVVCyNfA8Ky6LKLLR5UVvXIP8LQpo48L3fetF/pqkShxfN20LTu8hPZ33ZUt3yj3alpRxjKUdDXnjqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - Exercises\\19. Thea The Photographer\\19. Thea The Photographer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
