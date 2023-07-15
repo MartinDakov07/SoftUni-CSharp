@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXkKFmGEfCrvkdWbqQZitcnSgZTpTF4O2KDB78X+qArwwtftx2iTGaBz3qpQ6RGYYwhBq0vj+0OXIcjiTsXiOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - More Exercises\\01. Type Boundaries\\01. Type Boundaries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
