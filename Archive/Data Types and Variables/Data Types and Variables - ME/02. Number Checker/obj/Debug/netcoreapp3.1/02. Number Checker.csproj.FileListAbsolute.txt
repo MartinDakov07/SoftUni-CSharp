@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\bin\Debug\netcoreapp3.1\02. Number Checker.exe
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\bin\Debug\netcoreapp3.1\02. Number Checker.deps.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\bin\Debug\netcoreapp3.1\02. Number Checker.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\bin\Debug\netcoreapp3.1\02. Number Checker.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\bin\Debug\netcoreapp3.1\02. Number Checker.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\bin\Debug\netcoreapp3.1\02. Number Checker.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\02. Number Checker\obj\Debug\netcoreapp3.1\02. Number Checker.genruntimeconfig.cache
