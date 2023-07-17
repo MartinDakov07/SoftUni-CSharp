@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp3.1\06. Catch the Thief.exe
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp3.1\06. Catch the Thief.deps.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp3.1\06. Catch the Thief.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp3.1\06. Catch the Thief.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp3.1\06. Catch the Thief.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp3.1\06. Catch the Thief.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp3.1\06. Catch the Thief.genruntimeconfig.cache
