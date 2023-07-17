@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp3.1\08. House Builder.exe
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp3.1\08. House Builder.deps.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp3.1\08. House Builder.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp3.1\08. House Builder.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp3.1\08. House Builder.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp3.1\08. House Builder.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp3.1\08. House Builder.genruntimeconfig.cache
