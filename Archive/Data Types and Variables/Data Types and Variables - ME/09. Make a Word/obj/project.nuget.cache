@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWfT2R2rlqh2GCYUujI8RWaHh704d/+LeZ79YxEl3INaUKY8WKj47cvdu61yGp0O+lZhKmwp3sxXvf06t5S63A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Data Types and Variables - More Exercises\\09. Make a Word\\09. Make a Word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
