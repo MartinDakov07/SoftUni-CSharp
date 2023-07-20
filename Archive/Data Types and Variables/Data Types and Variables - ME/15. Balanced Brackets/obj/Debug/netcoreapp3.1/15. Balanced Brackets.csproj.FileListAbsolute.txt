@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp3.1\15. Balanced Brackets.exe
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp3.1\15. Balanced Brackets.deps.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp3.1\15. Balanced Brackets.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp3.1\15. Balanced Brackets.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp3.1\15. Balanced Brackets.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp3.1\15. Balanced Brackets.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp3.1\15. Balanced Brackets.genruntimeconfig.cache
