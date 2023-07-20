@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\netcoreapp3.1\14. Boat Simulator.exe
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\netcoreapp3.1\14. Boat Simulator.deps.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\netcoreapp3.1\14. Boat Simulator.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\netcoreapp3.1\14. Boat Simulator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\netcoreapp3.1\14. Boat Simulator.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\netcoreapp3.1\14. Boat Simulator.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.dll
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.pdb
+C:\Users\User\source\repos\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\netcoreapp3.1\14. Boat Simulator.genruntimeconfig.cache
