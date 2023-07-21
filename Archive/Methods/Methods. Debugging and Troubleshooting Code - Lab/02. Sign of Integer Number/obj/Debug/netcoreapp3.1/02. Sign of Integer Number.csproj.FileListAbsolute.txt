@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp3.1\02. Sign of Integer Number.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp3.1\02. Sign of Integer Number.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp3.1\02. Sign of Integer Number.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp3.1\02. Sign of Integer Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp3.1\02. Sign of Integer Number.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp3.1\02. Sign of Integer Number.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp3.1\02. Sign of Integer Number.genruntimeconfig.cache
