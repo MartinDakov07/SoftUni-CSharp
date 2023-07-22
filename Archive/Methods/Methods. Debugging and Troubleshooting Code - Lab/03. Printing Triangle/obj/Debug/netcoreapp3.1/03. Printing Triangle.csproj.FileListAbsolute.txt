@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\netcoreapp3.1\03. Printing Triangle.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\netcoreapp3.1\03. Printing Triangle.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\netcoreapp3.1\03. Printing Triangle.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\netcoreapp3.1\03. Printing Triangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\netcoreapp3.1\03. Printing Triangle.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\netcoreapp3.1\03. Printing Triangle.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\netcoreapp3.1\03. Printing Triangle.genruntimeconfig.cache
