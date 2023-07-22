@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp3.1\04. Draw a Filled Square.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp3.1\04. Draw a Filled Square.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp3.1\04. Draw a Filled Square.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp3.1\04. Draw a Filled Square.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp3.1\04. Draw a Filled Square.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp3.1\04. Draw a Filled Square.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp3.1\04. Draw a Filled Square.genruntimeconfig.cache
