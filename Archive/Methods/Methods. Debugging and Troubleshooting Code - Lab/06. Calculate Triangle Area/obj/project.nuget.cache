@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GW5+sEfCCCm/eCUTr5Apgh85ItWpbyQITmJeLp8gXJ8nTY6VGHmXNg6FBiJ4U2WFpUgy/Q98DNeh5oNaB9rUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Lab\\06. Calculate Triangle Area\\06. Calculate Triangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

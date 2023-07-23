@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp3.1\06. Calculate Triangle Area.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp3.1\06. Calculate Triangle Area.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp3.1\06. Calculate Triangle Area.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp3.1\06. Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp3.1\06. Calculate Triangle Area.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp3.1\06. Calculate Triangle Area.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp3.1\06. Calculate Triangle Area.genruntimeconfig.cache
