@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\10. Holidays Between Two Dates.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\10. Holidays Between Two Dates.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\10. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\10. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\10. Holidays Between Two Dates.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\10. Holidays Between Two Dates.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\10. Holidays Between Two Dates.genruntimeconfig.cache
