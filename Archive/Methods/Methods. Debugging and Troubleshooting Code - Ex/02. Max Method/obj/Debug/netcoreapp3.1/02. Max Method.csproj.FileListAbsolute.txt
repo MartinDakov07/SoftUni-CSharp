@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\bin\Debug\netcoreapp3.1\02. Max Method.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\bin\Debug\netcoreapp3.1\02. Max Method.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\bin\Debug\netcoreapp3.1\02. Max Method.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\bin\Debug\netcoreapp3.1\02. Max Method.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\bin\Debug\netcoreapp3.1\02. Max Method.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\bin\Debug\netcoreapp3.1\02. Max Method.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\02. Max Method\obj\Debug\netcoreapp3.1\02. Max Method.genruntimeconfig.cache
