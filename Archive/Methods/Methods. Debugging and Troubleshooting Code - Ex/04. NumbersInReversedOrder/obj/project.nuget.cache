@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5Wk6MBlUb0NGVFKZFACcxGrIaj0NvVfNQgd4IK8a/HAm5ldey4htn+NlUmYNC8A+GAhdyZZWfgvGTS5a4VjHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\04. Numbers in Reversed Order\\04. Numbers in Reversed Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
