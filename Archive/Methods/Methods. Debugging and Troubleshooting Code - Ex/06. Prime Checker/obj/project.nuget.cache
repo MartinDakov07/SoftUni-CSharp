@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RnDDmWFHVwSAhWE9jDd89T+0UGT9FsSepqeqP4zQdaBgjNEvk/PNuieH6VdYjAluuzNamdDwqRVxPJcIIf2qHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\06. Prime Checker\\06. Prime Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
