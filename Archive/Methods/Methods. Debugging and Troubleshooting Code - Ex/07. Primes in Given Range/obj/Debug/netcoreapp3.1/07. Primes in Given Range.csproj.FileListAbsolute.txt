@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\bin\Debug\netcoreapp3.1\07. Primes in Given Range.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\bin\Debug\netcoreapp3.1\07. Primes in Given Range.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\bin\Debug\netcoreapp3.1\07. Primes in Given Range.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\bin\Debug\netcoreapp3.1\07. Primes in Given Range.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\bin\Debug\netcoreapp3.1\07. Primes in Given Range.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\bin\Debug\netcoreapp3.1\07. Primes in Given Range.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\07. Primes in Given Range\obj\Debug\netcoreapp3.1\07. Primes in Given Range.genruntimeconfig.cache
