@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0jvTMPwEod1FRl6D5IplKnwrYGq9gynSWDEpwyPSuD2vca2i1PliulXPrkW8QtFYxb0mTdia+kII2zTcuZCeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\08. Center Point\\08. Center Point.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
