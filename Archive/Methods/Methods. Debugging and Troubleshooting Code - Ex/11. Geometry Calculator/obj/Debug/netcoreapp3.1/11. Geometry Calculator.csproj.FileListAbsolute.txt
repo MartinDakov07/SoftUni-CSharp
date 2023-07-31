@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp3.1\11. Geometry Calculator.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp3.1\11. Geometry Calculator.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp3.1\11. Geometry Calculator.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp3.1\11. Geometry Calculator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp3.1\11. Geometry Calculator.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp3.1\11. Geometry Calculator.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp3.1\11. Geometry Calculator.genruntimeconfig.cache

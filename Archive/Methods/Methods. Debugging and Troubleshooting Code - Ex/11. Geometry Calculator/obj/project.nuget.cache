@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwBZAxo02nCPRzE4C6zyUB7wjZVZsAscf3m3wtrXb6XBm+jzha8g/34IH7r8L6rMz6UIPXOXuZQu/R5ghYwmvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\11. Geometry Calculator\\11. Geometry Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
