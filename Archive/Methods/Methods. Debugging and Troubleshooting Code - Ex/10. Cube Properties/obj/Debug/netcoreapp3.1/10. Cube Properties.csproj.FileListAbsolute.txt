@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\netcoreapp3.1\10. Cube Properties.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\netcoreapp3.1\10. Cube Properties.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\netcoreapp3.1\10. Cube Properties.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\netcoreapp3.1\10. Cube Properties.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\netcoreapp3.1\10. Cube Properties.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\netcoreapp3.1\10. Cube Properties.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\netcoreapp3.1\10. Cube Properties.genruntimeconfig.cache

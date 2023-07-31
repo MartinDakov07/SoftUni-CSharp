@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNzY0L2TRpIfEy/aFtqmgtZmcIEgrBhUvgTiOYMxArzcJbhMAX3rCWqnm3v06hX6qCHUSr/jA6kmS1a70rcjRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\10. Cube Properties\\10. Cube Properties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
