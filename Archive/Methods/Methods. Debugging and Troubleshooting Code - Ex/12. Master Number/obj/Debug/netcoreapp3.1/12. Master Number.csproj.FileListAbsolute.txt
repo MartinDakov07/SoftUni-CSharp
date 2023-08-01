@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\bin\Debug\netcoreapp3.1\12. Master Number.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\bin\Debug\netcoreapp3.1\12. Master Number.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\bin\Debug\netcoreapp3.1\12. Master Number.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\bin\Debug\netcoreapp3.1\12. Master Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\bin\Debug\netcoreapp3.1\12. Master Number.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\bin\Debug\netcoreapp3.1\12. Master Number.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Number\obj\Debug\netcoreapp3.1\12. Master Number.genruntimeconfig.cache
