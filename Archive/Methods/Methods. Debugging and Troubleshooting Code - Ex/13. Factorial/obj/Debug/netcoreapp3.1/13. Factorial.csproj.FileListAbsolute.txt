@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp3.1\13. Factorial.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp3.1\13. Factorial.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp3.1\13. Factorial.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp3.1\13. Factorial.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp3.1\13. Factorial.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp3.1\13. Factorial.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp3.1\13. Factorial.genruntimeconfig.cache

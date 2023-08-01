@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymtfksqBhys6aLqc8H/Mwk1kXn2tb41C3cydk2/udCrQTIsXyJidUR6KIbV7FcS4L58wwhpS0isCH2np32fEAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\13. Factorial\\13. Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
