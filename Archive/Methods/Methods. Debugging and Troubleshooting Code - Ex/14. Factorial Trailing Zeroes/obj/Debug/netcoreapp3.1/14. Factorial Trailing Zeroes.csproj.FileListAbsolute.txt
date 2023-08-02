@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp3.1\14. Factorial Trailing Zeroes.genruntimeconfig.cache
