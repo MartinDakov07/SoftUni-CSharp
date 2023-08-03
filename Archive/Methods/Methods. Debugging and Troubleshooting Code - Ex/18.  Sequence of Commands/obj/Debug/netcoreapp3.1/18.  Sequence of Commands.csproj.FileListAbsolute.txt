@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\bin\Debug\netcoreapp3.1\18.  Sequence of Commands.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\bin\Debug\netcoreapp3.1\18.  Sequence of Commands.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\bin\Debug\netcoreapp3.1\18.  Sequence of Commands.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\bin\Debug\netcoreapp3.1\18.  Sequence of Commands.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\bin\Debug\netcoreapp3.1\18.  Sequence of Commands.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\bin\Debug\netcoreapp3.1\18.  Sequence of Commands.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\18.  Sequence of Commands\obj\Debug\netcoreapp3.1\18.  Sequence of Commands.genruntimeconfig.cache

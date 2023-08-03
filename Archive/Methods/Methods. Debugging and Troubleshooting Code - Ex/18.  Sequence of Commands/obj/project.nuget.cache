@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y454KiO4APn1JOSpCmO6NlE/U53/kK8AHvaMdbZdHC8aQPpeH17QzghJr+t3wE1OqATwKugsmdt3QS7J+0HiIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Methods. Debugging and Troubleshooting Code - Exercises\\18.  Sequence of Commands\\18.  Sequence of Commands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
