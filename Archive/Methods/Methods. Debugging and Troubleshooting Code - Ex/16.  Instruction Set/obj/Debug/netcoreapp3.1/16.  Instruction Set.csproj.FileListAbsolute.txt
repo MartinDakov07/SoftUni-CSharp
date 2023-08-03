@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\bin\Debug\netcoreapp3.1\16.  Instruction Set.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\bin\Debug\netcoreapp3.1\16.  Instruction Set.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\bin\Debug\netcoreapp3.1\16.  Instruction Set.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\bin\Debug\netcoreapp3.1\16.  Instruction Set.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\bin\Debug\netcoreapp3.1\16.  Instruction Set.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\bin\Debug\netcoreapp3.1\16.  Instruction Set.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\16.  Instruction Set\obj\Debug\netcoreapp3.1\16.  Instruction Set.genruntimeconfig.cache
