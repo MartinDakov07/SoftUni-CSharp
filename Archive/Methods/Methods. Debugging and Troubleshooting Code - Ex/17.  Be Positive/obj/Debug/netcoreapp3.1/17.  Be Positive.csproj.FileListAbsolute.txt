@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\bin\Debug\netcoreapp3.1\17.  Be Positive.exe
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\bin\Debug\netcoreapp3.1\17.  Be Positive.deps.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\bin\Debug\netcoreapp3.1\17.  Be Positive.runtimeconfig.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\bin\Debug\netcoreapp3.1\17.  Be Positive.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\bin\Debug\netcoreapp3.1\17.  Be Positive.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\bin\Debug\netcoreapp3.1\17.  Be Positive.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.dll
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.pdb
+C:\Users\User\source\repos\Methods. Debugging and Troubleshooting Code - Exercises\17.  Be Positive\obj\Debug\netcoreapp3.1\17.  Be Positive.genruntimeconfig.cache
