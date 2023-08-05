@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxV1JH2OORJu/iLcn7jf996E3pWBctLMYLmJiOvwoUB5NZn3IIeY/6y4jVO+BU+phJArzPk2vt092ktBLRhM4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Arrays - Lab\\03. Last K Numbers Sums\\03. Last K Numbers Sums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
