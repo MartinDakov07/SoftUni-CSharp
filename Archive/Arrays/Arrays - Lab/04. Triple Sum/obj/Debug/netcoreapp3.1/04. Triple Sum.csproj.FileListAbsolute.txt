@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp3.1\04. Triple Sum.exe
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp3.1\04. Triple Sum.deps.json
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp3.1\04. Triple Sum.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp3.1\04. Triple Sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp3.1\04. Triple Sum.dll
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp3.1\04. Triple Sum.pdb
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.dll
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.pdb
+C:\Users\User\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp3.1\04. Triple Sum.genruntimeconfig.cache
