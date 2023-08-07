@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp3.1\09. Extract Middle Elements.exe
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp3.1\09. Extract Middle Elements.deps.json
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp3.1\09. Extract Middle Elements.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp3.1\09. Extract Middle Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp3.1\09. Extract Middle Elements.dll
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp3.1\09. Extract Middle Elements.pdb
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.dll
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.pdb
+C:\Users\User\source\repos\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp3.1\09. Extract Middle Elements.genruntimeconfig.cache

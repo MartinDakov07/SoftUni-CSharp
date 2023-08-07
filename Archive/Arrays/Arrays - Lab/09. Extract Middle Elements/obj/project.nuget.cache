@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYMlFflN8T2UpDsT64RMnkIzDqxPEfTCr1zNVcy00qWT8EXU5gGZYJcAfS8eK5cEH2dqSG8GmjpG+Jj7GX8f1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Arrays - Lab\\09. Extract Middle Elements\\09. Extract Middle Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
