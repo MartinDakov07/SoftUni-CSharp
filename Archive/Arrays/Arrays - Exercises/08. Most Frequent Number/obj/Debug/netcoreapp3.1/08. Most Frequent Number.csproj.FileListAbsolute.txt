@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp3.1\08. Most Frequent Number.exe
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp3.1\08. Most Frequent Number.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp3.1\08. Most Frequent Number.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp3.1\08. Most Frequent Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp3.1\08. Most Frequent Number.dll
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp3.1\08. Most Frequent Number.pdb
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.dll
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.pdb
+C:\Users\User\source\repos\Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp3.1\08. Most Frequent Number.genruntimeconfig.cache
