@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.exe
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.dll
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.pdb
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.dll
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.pdb
+C:\Users\User\source\repos\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Increasing Elements.genruntimeconfig.cache
