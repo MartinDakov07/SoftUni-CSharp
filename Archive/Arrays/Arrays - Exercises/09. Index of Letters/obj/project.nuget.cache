@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFhrUIN6XAckiZSfVHlV5z0JVeQS/vagPRyhuQfpmdHnOEAMWuC8tuR6vRPxrr/f2+tiK62BDPAYPl+QzKqg/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Arrays - Exercises\\09. Index of Letters\\09. Index of Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
