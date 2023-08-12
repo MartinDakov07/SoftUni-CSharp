@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4gNubWLi0rTT5xSaRDRb76hwTvy8EsJsNlk0wHUe7+n6+a0gtIn+r7BHUeDJUpUW9aeGXn3dbL7fmFLH+h2yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Arrays - Exercises\\11. Equal Sums\\11. Equal Sums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
