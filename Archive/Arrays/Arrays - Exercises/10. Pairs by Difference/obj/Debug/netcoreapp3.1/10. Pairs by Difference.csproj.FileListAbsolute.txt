@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\bin\Debug\netcoreapp3.1\10. Pairs by Difference.exe
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\bin\Debug\netcoreapp3.1\10. Pairs by Difference.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\bin\Debug\netcoreapp3.1\10. Pairs by Difference.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\bin\Debug\netcoreapp3.1\10. Pairs by Difference.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\bin\Debug\netcoreapp3.1\10. Pairs by Difference.dll
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\bin\Debug\netcoreapp3.1\10. Pairs by Difference.pdb
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.dll
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.pdb
+C:\Users\User\source\repos\Arrays - Exercises\10. Pairs by Difference\obj\Debug\netcoreapp3.1\10. Pairs by Difference.genruntimeconfig.cache
