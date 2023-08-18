@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\netcoreapp3.1\01. Array Statistics.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\netcoreapp3.1\01. Array Statistics.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\netcoreapp3.1\01. Array Statistics.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\netcoreapp3.1\01. Array Statistics.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\netcoreapp3.1\01. Array Statistics.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\netcoreapp3.1\01. Array Statistics.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\netcoreapp3.1\01. Array Statistics.genruntimeconfig.cache
