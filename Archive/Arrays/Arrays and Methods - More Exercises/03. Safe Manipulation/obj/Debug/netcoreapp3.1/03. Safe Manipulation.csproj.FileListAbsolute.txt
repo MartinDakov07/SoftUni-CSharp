@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\netcoreapp3.1\03. Safe Manipulation.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\netcoreapp3.1\03. Safe Manipulation.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\netcoreapp3.1\03. Safe Manipulation.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\netcoreapp3.1\03. Safe Manipulation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\netcoreapp3.1\03. Safe Manipulation.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\netcoreapp3.1\03. Safe Manipulation.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\netcoreapp3.1\03. Safe Manipulation.genruntimeconfig.cache
