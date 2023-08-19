@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\netcoreapp3.1\04. Grab and Go.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\netcoreapp3.1\04. Grab and Go.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\netcoreapp3.1\04. Grab and Go.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\netcoreapp3.1\04. Grab and Go.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\netcoreapp3.1\04. Grab and Go.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\netcoreapp3.1\04. Grab and Go.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\netcoreapp3.1\04. Grab and Go.genruntimeconfig.cache
