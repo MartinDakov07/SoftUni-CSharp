@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\bin\Debug\netcoreapp3.1\06. Heists.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\bin\Debug\netcoreapp3.1\06. Heists.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\bin\Debug\netcoreapp3.1\06. Heists.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\bin\Debug\netcoreapp3.1\06. Heists.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\bin\Debug\netcoreapp3.1\06. Heists.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\bin\Debug\netcoreapp3.1\06. Heists.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\06. Heists\obj\Debug\netcoreapp3.1\06. Heists.genruntimeconfig.cache
