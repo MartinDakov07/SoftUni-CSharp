@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\netcoreapp3.1\05. Pizza Ingredients.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\netcoreapp3.1\05. Pizza Ingredients.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\netcoreapp3.1\05. Pizza Ingredients.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\netcoreapp3.1\05. Pizza Ingredients.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\netcoreapp3.1\05. Pizza Ingredients.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\netcoreapp3.1\05. Pizza Ingredients.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\netcoreapp3.1\05. Pizza Ingredients.genruntimeconfig.cache
