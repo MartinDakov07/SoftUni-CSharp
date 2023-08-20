@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\netcoreapp3.1\07. Inventory Matcher.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\netcoreapp3.1\07. Inventory Matcher.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\netcoreapp3.1\07. Inventory Matcher.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\netcoreapp3.1\07. Inventory Matcher.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\netcoreapp3.1\07. Inventory Matcher.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\netcoreapp3.1\07. Inventory Matcher.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\netcoreapp3.1\07. Inventory Matcher.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lecsXdGTBbnsgxVHI0FM+ev/syIIK2HMvfb/34HSbMvh20r0Tv01gT3vi2YPkdeCQOoBqB5uY6OTGHPNIeUKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Arrays and Methods - More Exercises\\07. Inventory Matcher\\07. Inventory Matcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
