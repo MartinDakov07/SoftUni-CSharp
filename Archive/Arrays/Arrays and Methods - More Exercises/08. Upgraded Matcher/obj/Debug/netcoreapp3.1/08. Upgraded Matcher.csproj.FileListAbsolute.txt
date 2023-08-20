@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\bin\Debug\netcoreapp3.1\08. Upgraded Matcher.exe
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\bin\Debug\netcoreapp3.1\08. Upgraded Matcher.deps.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\bin\Debug\netcoreapp3.1\08. Upgraded Matcher.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\bin\Debug\netcoreapp3.1\08. Upgraded Matcher.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\bin\Debug\netcoreapp3.1\08. Upgraded Matcher.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\bin\Debug\netcoreapp3.1\08. Upgraded Matcher.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.dll
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.pdb
+C:\Users\User\source\repos\Arrays and Methods - More Exercises\08. Upgraded Matcher\obj\Debug\netcoreapp3.1\08. Upgraded Matcher.genruntimeconfig.cache
