@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5d9D/T2hC6nxcUb21NlRmMjW+XNsVUGOBL47J+ytiOJmUAZmOHaMs0vj5/0BJSS28gF8MkoEY1hk4AP7qVa2xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Lists - Lab\\03. Sum Adjacent Equal Numbers\\03. Sum Adjacent Equal Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
