@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\bin\Debug\netcoreapp3.1\04. Split by Word Casing.exe
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\bin\Debug\netcoreapp3.1\04. Split by Word Casing.deps.json
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\bin\Debug\netcoreapp3.1\04. Split by Word Casing.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\bin\Debug\netcoreapp3.1\04. Split by Word Casing.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\bin\Debug\netcoreapp3.1\04. Split by Word Casing.dll
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\bin\Debug\netcoreapp3.1\04. Split by Word Casing.pdb
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.dll
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.pdb
+C:\Users\User\source\repos\Lists - Lab\04. Split by Word Casing\obj\Debug\netcoreapp3.1\04. Split by Word Casing.genruntimeconfig.cache
