@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp3.1\05. Sort Numbers.exe
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp3.1\05. Sort Numbers.deps.json
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp3.1\05. Sort Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp3.1\05. Sort Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp3.1\05. Sort Numbers.dll
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp3.1\05. Sort Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.dll
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp3.1\05. Sort Numbers.genruntimeconfig.cache
