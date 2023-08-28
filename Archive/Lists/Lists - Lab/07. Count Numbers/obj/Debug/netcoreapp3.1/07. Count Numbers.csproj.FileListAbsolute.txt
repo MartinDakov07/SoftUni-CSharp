@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\bin\Debug\netcoreapp3.1\07. Count Numbers.exe
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\bin\Debug\netcoreapp3.1\07. Count Numbers.deps.json
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\bin\Debug\netcoreapp3.1\07. Count Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\bin\Debug\netcoreapp3.1\07. Count Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\bin\Debug\netcoreapp3.1\07. Count Numbers.dll
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\bin\Debug\netcoreapp3.1\07. Count Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.dll
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\07. Count Numbers\obj\Debug\netcoreapp3.1\07. Count Numbers.genruntimeconfig.cache
