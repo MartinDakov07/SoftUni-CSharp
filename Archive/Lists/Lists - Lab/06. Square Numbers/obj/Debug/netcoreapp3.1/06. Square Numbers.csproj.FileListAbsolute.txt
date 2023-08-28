@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\bin\Debug\netcoreapp3.1\06. Square Numbers.exe
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\bin\Debug\netcoreapp3.1\06. Square Numbers.deps.json
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\bin\Debug\netcoreapp3.1\06. Square Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\bin\Debug\netcoreapp3.1\06. Square Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\bin\Debug\netcoreapp3.1\06. Square Numbers.dll
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\bin\Debug\netcoreapp3.1\06. Square Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.dll
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\06. Square Numbers\obj\Debug\netcoreapp3.1\06. Square Numbers.genruntimeconfig.cache
