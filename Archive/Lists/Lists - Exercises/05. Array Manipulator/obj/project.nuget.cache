@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZY1EcEoN2FcB45tv2yAubjExBIgHXDia2cdBZXXOH1l0jiGm4OlWL5wzaoOgcmy2HOIgstJjsDcAQIWLr58rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Lists - Exercises\\05. Array Manipulator\\05. Array Manipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
