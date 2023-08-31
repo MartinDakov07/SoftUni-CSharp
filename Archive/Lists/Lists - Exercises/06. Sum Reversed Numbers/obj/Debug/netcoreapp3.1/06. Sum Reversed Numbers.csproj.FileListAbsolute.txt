@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp3.1\06. Sum Reversed Numbers.exe
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp3.1\06. Sum Reversed Numbers.deps.json
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp3.1\06. Sum Reversed Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp3.1\06. Sum Reversed Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp3.1\06. Sum Reversed Numbers.dll
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp3.1\06. Sum Reversed Numbers.pdb
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.dll
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.pdb
+C:\Users\User\source\repos\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp3.1\06. Sum Reversed Numbers.genruntimeconfig.cache
