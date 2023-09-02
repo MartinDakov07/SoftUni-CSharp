@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\netcoreapp3.1\05. Short Words Sorted.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\netcoreapp3.1\05. Short Words Sorted.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\netcoreapp3.1\05. Short Words Sorted.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\netcoreapp3.1\05. Short Words Sorted.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\netcoreapp3.1\05. Short Words Sorted.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\netcoreapp3.1\05. Short Words Sorted.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\netcoreapp3.1\05. Short Words Sorted.genruntimeconfig.cache
