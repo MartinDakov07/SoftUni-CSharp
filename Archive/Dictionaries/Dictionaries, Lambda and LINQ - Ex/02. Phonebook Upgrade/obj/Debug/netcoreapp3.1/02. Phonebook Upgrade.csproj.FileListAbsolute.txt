@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp3.1\02. Phonebook Upgrade.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp3.1\02. Phonebook Upgrade.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp3.1\02. Phonebook Upgrade.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp3.1\02. Phonebook Upgrade.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp3.1\02. Phonebook Upgrade.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp3.1\02. Phonebook Upgrade.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp3.1\02. Phonebook Upgrade.genruntimeconfig.cache
