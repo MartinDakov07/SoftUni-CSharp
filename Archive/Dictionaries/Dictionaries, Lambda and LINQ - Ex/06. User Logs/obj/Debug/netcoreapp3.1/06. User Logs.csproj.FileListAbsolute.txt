@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\netcoreapp3.1\06. User Logs.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\netcoreapp3.1\06. User Logs.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\netcoreapp3.1\06. User Logs.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\netcoreapp3.1\06. User Logs.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\netcoreapp3.1\06. User Logs.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\netcoreapp3.1\06. User Logs.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\netcoreapp3.1\06. User Logs.genruntimeconfig.cache
