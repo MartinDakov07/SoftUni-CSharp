@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lj9BOtzxVVgP39FSE0EuJBPPKco16MmpCb/pNH+/iDvLQKZeiPzrjij/Czy3nb88aRkLPZ1nGumtNU4uQYL0hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Dictionaries, Lambda and LINQ - Exercises\\05. Hands of Cards\\05. Hands of Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

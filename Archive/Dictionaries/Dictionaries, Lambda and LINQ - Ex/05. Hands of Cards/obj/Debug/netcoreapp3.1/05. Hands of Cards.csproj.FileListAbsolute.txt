@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\netcoreapp3.1\05. Hands of Cards.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\netcoreapp3.1\05. Hands of Cards.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\netcoreapp3.1\05. Hands of Cards.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\netcoreapp3.1\05. Hands of Cards.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\netcoreapp3.1\05. Hands of Cards.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\netcoreapp3.1\05. Hands of Cards.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\netcoreapp3.1\05. Hands of Cards.genruntimeconfig.cache
