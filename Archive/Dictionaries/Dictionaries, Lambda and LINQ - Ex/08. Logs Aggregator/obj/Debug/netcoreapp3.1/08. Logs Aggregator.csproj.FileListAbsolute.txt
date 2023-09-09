@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\netcoreapp3.1\08. Logs Aggregator.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\netcoreapp3.1\08. Logs Aggregator.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\netcoreapp3.1\08. Logs Aggregator.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\netcoreapp3.1\08. Logs Aggregator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\netcoreapp3.1\08. Logs Aggregator.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\netcoreapp3.1\08. Logs Aggregator.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\netcoreapp3.1\08. Logs Aggregator.genruntimeconfig.cache
