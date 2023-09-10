@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\netcoreapp3.1\10. Сръбско Unleashed.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\netcoreapp3.1\10. Сръбско Unleashed.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\netcoreapp3.1\10. Сръбско Unleashed.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\netcoreapp3.1\10. Сръбско Unleashed.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\netcoreapp3.1\10. Сръбско Unleashed.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\netcoreapp3.1\10. Сръбско Unleashed.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\netcoreapp3.1\10. Сръбско Unleashed.genruntimeconfig.cache

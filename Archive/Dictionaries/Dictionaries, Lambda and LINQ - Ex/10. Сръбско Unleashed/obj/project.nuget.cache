@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYeoX/uK/4UcwsA0ClTNbs4a6bMdI1hMk8+qbOC9WXBKD2FRJ1oSjGP/WcShIl1MprFVcRMssCFuLjeE9JnT/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Dictionaries, Lambda and LINQ - Exercises\\10. Сръбско Unleashed\\10. Сръбско Unleashed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
