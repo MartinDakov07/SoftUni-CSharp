@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JuU7H8NWmXATIz/KWFFY14XSxNAUrkrsyD/3d0D9OddiA+DtqLZPuzKac/lWiAWxTvTBNJi3edgiDQ+0pKDbjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Dictionaries, Lambda and LINQ - Exercises\\09. Legendary Farming\\09. Legendary Farming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
