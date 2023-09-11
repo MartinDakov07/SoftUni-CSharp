@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\bin\Debug\netcoreapp3.1\01. Sort Times.exe
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\bin\Debug\netcoreapp3.1\01. Sort Times.deps.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\bin\Debug\netcoreapp3.1\01. Sort Times.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\bin\Debug\netcoreapp3.1\01. Sort Times.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\bin\Debug\netcoreapp3.1\01. Sort Times.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\bin\Debug\netcoreapp3.1\01. Sort Times.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\01. Sort Times\obj\Debug\netcoreapp3.1\01. Sort Times.genruntimeconfig.cache

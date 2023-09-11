@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEMb8Sm5twrV9NkqoRj2jQvh4yhiqg6JLBxydwryLb4o52LB0N8eTKngmYbbUn1em61t+CHzDilFxrQg5Zchew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Dictionaries and Lists - More Exercises\\01. Sort Times\\01. Sort Times.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
