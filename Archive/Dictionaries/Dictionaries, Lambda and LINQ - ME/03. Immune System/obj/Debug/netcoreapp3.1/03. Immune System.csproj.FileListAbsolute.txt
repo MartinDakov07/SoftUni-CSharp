@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\bin\Debug\netcoreapp3.1\03. Immune System.exe
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\bin\Debug\netcoreapp3.1\03. Immune System.deps.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\bin\Debug\netcoreapp3.1\03. Immune System.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\bin\Debug\netcoreapp3.1\03. Immune System.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\bin\Debug\netcoreapp3.1\03. Immune System.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\bin\Debug\netcoreapp3.1\03. Immune System.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\03. Immune System\obj\Debug\netcoreapp3.1\03. Immune System.genruntimeconfig.cache
