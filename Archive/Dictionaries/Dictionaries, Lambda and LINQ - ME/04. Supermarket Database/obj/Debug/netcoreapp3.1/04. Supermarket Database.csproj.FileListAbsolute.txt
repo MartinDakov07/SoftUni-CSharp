@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\netcoreapp3.1\04. Supermarket Database.exe
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\netcoreapp3.1\04. Supermarket Database.deps.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\netcoreapp3.1\04. Supermarket Database.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\netcoreapp3.1\04. Supermarket Database.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\netcoreapp3.1\04. Supermarket Database.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\netcoreapp3.1\04. Supermarket Database.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\netcoreapp3.1\04. Supermarket Database.genruntimeconfig.cache
