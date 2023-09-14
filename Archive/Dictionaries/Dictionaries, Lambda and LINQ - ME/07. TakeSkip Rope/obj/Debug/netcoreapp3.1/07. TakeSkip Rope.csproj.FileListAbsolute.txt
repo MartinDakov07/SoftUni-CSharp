@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\bin\Debug\netcoreapp3.1\07. TakeSkip Rope.exe
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\bin\Debug\netcoreapp3.1\07. TakeSkip Rope.deps.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\bin\Debug\netcoreapp3.1\07. TakeSkip Rope.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\bin\Debug\netcoreapp3.1\07. TakeSkip Rope.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\bin\Debug\netcoreapp3.1\07. TakeSkip Rope.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\bin\Debug\netcoreapp3.1\07. TakeSkip Rope.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\07. TakeSkip Rope\obj\Debug\netcoreapp3.1\07. TakeSkip Rope.genruntimeconfig.cache
