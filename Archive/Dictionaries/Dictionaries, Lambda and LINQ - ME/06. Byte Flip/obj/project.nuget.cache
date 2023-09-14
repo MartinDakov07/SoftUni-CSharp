@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjO5OxM3lBE08FwQxV9hI6gWnmhzDsBXjXVwi7c9541+/4PiQYqFlaeHAd9tfWcS0J0Qdmy8pnT8TC42jId0Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Dictionaries and Lists - More Exercises\\06. Byte Flip\\06. Byte Flip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

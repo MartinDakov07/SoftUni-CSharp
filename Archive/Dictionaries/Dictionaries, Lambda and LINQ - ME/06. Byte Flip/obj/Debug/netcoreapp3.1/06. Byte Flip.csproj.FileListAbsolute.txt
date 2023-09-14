@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\bin\Debug\netcoreapp3.1\06. Byte Flip.exe
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\bin\Debug\netcoreapp3.1\06. Byte Flip.deps.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\bin\Debug\netcoreapp3.1\06. Byte Flip.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\bin\Debug\netcoreapp3.1\06. Byte Flip.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\bin\Debug\netcoreapp3.1\06. Byte Flip.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\bin\Debug\netcoreapp3.1\06. Byte Flip.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.dll
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.pdb
+C:\Users\User\source\repos\Dictionaries and Lists - More Exercises\06. Byte Flip\obj\Debug\netcoreapp3.1\06. Byte Flip.genruntimeconfig.cache
