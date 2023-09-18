@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvBSmMKNab/5CXhm1+d0zTAa6S2yJGYXfFAZ9ulWoy9gmQj6baaBs2bLxSWlAcx2U+OgxfzszFMTFjEG2PSySw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Objects and Classes - Lab\\07. Sales Report\\07. Sales Report.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

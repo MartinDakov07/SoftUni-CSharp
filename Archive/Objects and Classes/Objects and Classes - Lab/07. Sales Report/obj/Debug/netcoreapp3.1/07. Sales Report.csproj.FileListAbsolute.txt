@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp3.1\07. Sales Report.exe
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp3.1\07. Sales Report.deps.json
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp3.1\07. Sales Report.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp3.1\07. Sales Report.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp3.1\07. Sales Report.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp3.1\07. Sales Report.pdb
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.pdb
+C:\Users\User\source\repos\Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp3.1\07. Sales Report.genruntimeconfig.cache
