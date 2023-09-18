@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\bin\Debug\netcoreapp3.1\06. Rectangle Position.exe
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\bin\Debug\netcoreapp3.1\06. Rectangle Position.deps.json
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\bin\Debug\netcoreapp3.1\06. Rectangle Position.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\bin\Debug\netcoreapp3.1\06. Rectangle Position.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\bin\Debug\netcoreapp3.1\06. Rectangle Position.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\bin\Debug\netcoreapp3.1\06. Rectangle Position.pdb
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.pdb
+C:\Users\User\source\repos\Objects and Classes - Lab\06. Rectangle Position\obj\Debug\netcoreapp3.1\06. Rectangle Position.genruntimeconfig.cache
