@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp3.1\01. Count Working Days.exe
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp3.1\01. Count Working Days.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp3.1\01. Count Working Days.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp3.1\01. Count Working Days.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp3.1\01. Count Working Days.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp3.1\01. Count Working Days.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp3.1\01. Count Working Days.genruntimeconfig.cache
