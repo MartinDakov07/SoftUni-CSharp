@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp3.1\02. Advertisement Message.exe
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp3.1\02. Advertisement Message.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp3.1\02. Advertisement Message.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp3.1\02. Advertisement Message.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp3.1\02. Advertisement Message.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp3.1\02. Advertisement Message.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp3.1\02. Advertisement Message.genruntimeconfig.cache
