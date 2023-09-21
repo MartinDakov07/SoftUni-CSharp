@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59X7BTTQBmD/whzvBwK++Xrf4nGhqHE3bg+tHR7ZbR/o1BbLti3ZDlgDQP3YqRYa6FNShN3O+0YkSZXCkRWSuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Objects and Classes - Exercises\\06. Book Library Modification\\06. Book Library Modification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
