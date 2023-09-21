@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp3.1\05. Book Library.exe
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp3.1\05. Book Library.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp3.1\05. Book Library.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp3.1\05. Book Library.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp3.1\05. Book Library.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp3.1\05. Book Library.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp3.1\05. Book Library.genruntimeconfig.cache
