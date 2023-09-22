@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\bin\Debug\netcoreapp3.1\08. Mentor Group.exe
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\bin\Debug\netcoreapp3.1\08. Mentor Group.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\bin\Debug\netcoreapp3.1\08. Mentor Group.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\bin\Debug\netcoreapp3.1\08. Mentor Group.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\bin\Debug\netcoreapp3.1\08. Mentor Group.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\bin\Debug\netcoreapp3.1\08. Mentor Group.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\08. Mentor Group\obj\Debug\netcoreapp3.1\08. Mentor Group.genruntimeconfig.cache
