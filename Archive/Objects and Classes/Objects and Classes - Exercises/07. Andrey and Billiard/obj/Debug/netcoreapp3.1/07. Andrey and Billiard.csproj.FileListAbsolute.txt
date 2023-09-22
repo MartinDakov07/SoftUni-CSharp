@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp3.1\07. Andrey and Billiard.exe
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp3.1\07. Andrey and Billiard.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp3.1\07. Andrey and Billiard.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp3.1\07. Andrey and Billiard.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp3.1\07. Andrey and Billiard.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp3.1\07. Andrey and Billiard.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp3.1\07. Andrey and Billiard.genruntimeconfig.cache
