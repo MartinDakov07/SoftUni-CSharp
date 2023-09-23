@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\bin\Debug\netcoreapp3.1\10. Student Groups.exe
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\bin\Debug\netcoreapp3.1\10. Student Groups.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\bin\Debug\netcoreapp3.1\10. Student Groups.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\bin\Debug\netcoreapp3.1\10. Student Groups.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\bin\Debug\netcoreapp3.1\10. Student Groups.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\bin\Debug\netcoreapp3.1\10. Student Groups.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.dll
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercises\10. Student Groups\obj\Debug\netcoreapp3.1\10. Student Groups.genruntimeconfig.cache
