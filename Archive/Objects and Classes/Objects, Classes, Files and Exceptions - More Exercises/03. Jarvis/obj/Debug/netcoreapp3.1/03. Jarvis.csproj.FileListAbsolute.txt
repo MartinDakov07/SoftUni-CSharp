@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\bin\Debug\netcoreapp3.1\03. Jarvis.exe
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\bin\Debug\netcoreapp3.1\03. Jarvis.deps.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\bin\Debug\netcoreapp3.1\03. Jarvis.runtimeconfig.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\bin\Debug\netcoreapp3.1\03. Jarvis.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\bin\Debug\netcoreapp3.1\03. Jarvis.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\bin\Debug\netcoreapp3.1\03. Jarvis.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\03. Jarvis\obj\Debug\netcoreapp3.1\03. Jarvis.genruntimeconfig.cache
