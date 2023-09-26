@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\bin\Debug\netcoreapp3.1\04. Punctuation Finder.exe
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\bin\Debug\netcoreapp3.1\04. Punctuation Finder.deps.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\bin\Debug\netcoreapp3.1\04. Punctuation Finder.runtimeconfig.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\bin\Debug\netcoreapp3.1\04. Punctuation Finder.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\bin\Debug\netcoreapp3.1\04. Punctuation Finder.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\bin\Debug\netcoreapp3.1\04. Punctuation Finder.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\04. Punctuation Finder\obj\Debug\netcoreapp3.1\04. Punctuation Finder.genruntimeconfig.cache
