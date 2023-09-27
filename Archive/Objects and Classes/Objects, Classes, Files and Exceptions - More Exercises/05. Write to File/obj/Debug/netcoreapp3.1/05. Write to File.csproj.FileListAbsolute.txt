@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\bin\Debug\netcoreapp3.1\05. Write to File.exe
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\bin\Debug\netcoreapp3.1\05. Write to File.deps.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\bin\Debug\netcoreapp3.1\05. Write to File.runtimeconfig.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\bin\Debug\netcoreapp3.1\05. Write to File.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\bin\Debug\netcoreapp3.1\05. Write to File.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\bin\Debug\netcoreapp3.1\05. Write to File.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\05. Write to File\obj\Debug\netcoreapp3.1\05. Write to File.genruntimeconfig.cache
