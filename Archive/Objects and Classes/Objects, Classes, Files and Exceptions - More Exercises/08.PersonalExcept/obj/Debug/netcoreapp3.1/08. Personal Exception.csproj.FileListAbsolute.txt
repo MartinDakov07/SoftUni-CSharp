@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\bin\Debug\netcoreapp3.1\08. Personal Exception.exe
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\bin\Debug\netcoreapp3.1\08. Personal Exception.deps.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\bin\Debug\netcoreapp3.1\08. Personal Exception.runtimeconfig.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\bin\Debug\netcoreapp3.1\08. Personal Exception.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\bin\Debug\netcoreapp3.1\08. Personal Exception.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\bin\Debug\netcoreapp3.1\08. Personal Exception.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.dll
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.pdb
+C:\Users\User\source\repos\Objects, Classes, Files and Exceptions - More Exercises\08. Personal Exception\obj\Debug\netcoreapp3.1\08. Personal Exception.genruntimeconfig.cache
