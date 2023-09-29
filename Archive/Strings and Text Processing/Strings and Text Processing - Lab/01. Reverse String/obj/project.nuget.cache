@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Javi2g5GKJHb1dGyZD55IXxtonxl3duLMJfFca1y4yLx1RY5GYFEWzid3HTOb3YceFYpoWFnpLXP3mLeMoz6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Text Processing - Lab\\01. Reverse String\\01. Reverse String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
