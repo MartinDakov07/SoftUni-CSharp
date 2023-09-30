@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.exe
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.deps.json
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.dll
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.dll
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.genruntimeconfig.cache
