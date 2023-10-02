@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp3.1\04. Palindromes.exe
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp3.1\04. Palindromes.deps.json
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp3.1\04. Palindromes.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp3.1\04. Palindromes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp3.1\04. Palindromes.dll
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp3.1\04. Palindromes.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.dll
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp3.1\04. Palindromes.genruntimeconfig.cache
