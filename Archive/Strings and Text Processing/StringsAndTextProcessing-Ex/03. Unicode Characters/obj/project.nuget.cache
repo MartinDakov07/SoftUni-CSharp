@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO0DIJbC7UcTLj9noDvYyN6gtURjnQeKsX/Y8rwHcujJNPuWwTwu/My2QNodQ+9SWuC2k6yo06aJBJ1FA91e8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Text Processing - Exercises\\03. Unicode Characters\\03. Unicode Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
