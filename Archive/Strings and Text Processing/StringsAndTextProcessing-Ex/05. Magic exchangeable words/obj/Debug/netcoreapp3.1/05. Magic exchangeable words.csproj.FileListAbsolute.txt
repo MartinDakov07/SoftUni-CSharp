@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\netcoreapp3.1\05. Magic exchangeable words.exe
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\netcoreapp3.1\05. Magic exchangeable words.deps.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\netcoreapp3.1\05. Magic exchangeable words.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\netcoreapp3.1\05. Magic exchangeable words.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\netcoreapp3.1\05. Magic exchangeable words.dll
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\netcoreapp3.1\05. Magic exchangeable words.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.dll
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\netcoreapp3.1\05. Magic exchangeable words.genruntimeconfig.cache

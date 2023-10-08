@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eoE33CIpndk5qqoFvwpWf0p3XKx5Gk+eYFaXE5fRBb4Q8pWUlQq2aHLRXuGujqvrCic6BWAJI8uS12bEL5o4oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Text Processing - Exercises\\05. Magic exchangeable words\\05. Magic exchangeable words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
