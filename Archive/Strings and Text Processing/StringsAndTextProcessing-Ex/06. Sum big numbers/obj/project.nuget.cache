@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ty9cI+jsFTqsDFW+xAUj62bhnYGAlzLoTMP07/Sw3691p1YwMiHXiULjXUCYThwlO+I29t3ap4U/7ScseP6F9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Text Processing - Exercises\\06. Sum big numbers\\06. Sum big numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
