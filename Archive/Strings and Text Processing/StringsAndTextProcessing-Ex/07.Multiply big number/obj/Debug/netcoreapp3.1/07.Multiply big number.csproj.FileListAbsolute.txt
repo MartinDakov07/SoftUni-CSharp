@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\bin\Debug\netcoreapp3.1\07.Multiply big number.exe
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\bin\Debug\netcoreapp3.1\07.Multiply big number.deps.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\bin\Debug\netcoreapp3.1\07.Multiply big number.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\bin\Debug\netcoreapp3.1\07.Multiply big number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\bin\Debug\netcoreapp3.1\07.Multiply big number.dll
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\bin\Debug\netcoreapp3.1\07.Multiply big number.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.dll
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\07.Multiply big number\obj\Debug\netcoreapp3.1\07.Multiply big number.genruntimeconfig.cache
