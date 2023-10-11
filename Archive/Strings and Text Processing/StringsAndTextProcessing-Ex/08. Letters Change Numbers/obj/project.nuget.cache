@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGiE0+tI3DitauwKYOqQsBPGKSM08ogM7BPyERoExHSD2z7q7I7GhQGxBShbotCJLOn4yoassf/hOwUGWxWrQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Text Processing - Exercises\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
