@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp3.1\09. Melrah Shake.exe
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp3.1\09. Melrah Shake.deps.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp3.1\09. Melrah Shake.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp3.1\09. Melrah Shake.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp3.1\09. Melrah Shake.dll
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp3.1\09. Melrah Shake.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.dll
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.pdb
+C:\Users\User\source\repos\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp3.1\09. Melrah Shake.genruntimeconfig.cache
