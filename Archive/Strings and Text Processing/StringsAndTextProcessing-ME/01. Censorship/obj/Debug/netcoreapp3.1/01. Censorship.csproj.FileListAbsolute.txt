@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\bin\Debug\netcoreapp3.1\01. Censorship.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\bin\Debug\netcoreapp3.1\01. Censorship.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\bin\Debug\netcoreapp3.1\01. Censorship.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\bin\Debug\netcoreapp3.1\01. Censorship.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\bin\Debug\netcoreapp3.1\01. Censorship.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\bin\Debug\netcoreapp3.1\01. Censorship.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\01. Censorship\obj\Debug\netcoreapp3.1\01. Censorship.genruntimeconfig.cache
