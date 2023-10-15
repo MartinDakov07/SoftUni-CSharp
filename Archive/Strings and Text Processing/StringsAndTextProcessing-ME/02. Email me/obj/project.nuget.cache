@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIlOAWNc+0qCQ7dBq+aibTg9pKHEm/rMTwbCeFOYOyA8/1+z6Su+MbuCWwtpSfpFcPInB6iXQvdVh8Yr7Gu71A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Regular Expressions - More Exercises\\02. Email me\\02. Email me.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\bin\Debug\netcoreapp3.1\02. Email me.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\bin\Debug\netcoreapp3.1\02. Email me.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\bin\Debug\netcoreapp3.1\02. Email me.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\bin\Debug\netcoreapp3.1\02. Email me.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\bin\Debug\netcoreapp3.1\02. Email me.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\bin\Debug\netcoreapp3.1\02. Email me.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\02. Email me\obj\Debug\netcoreapp3.1\02. Email me.genruntimeconfig.cache
