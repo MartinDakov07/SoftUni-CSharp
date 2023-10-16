@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\netcoreapp3.1\03. Karate Strings.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\netcoreapp3.1\03. Karate Strings.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\netcoreapp3.1\03. Karate Strings.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\netcoreapp3.1\03. Karate Strings.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\netcoreapp3.1\03. Karate Strings.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\netcoreapp3.1\03. Karate Strings.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\netcoreapp3.1\03. Karate Strings.genruntimeconfig.cache

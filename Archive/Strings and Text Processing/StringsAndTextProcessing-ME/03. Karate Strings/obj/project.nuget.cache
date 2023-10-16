@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcjutcN35mz7edl6eZg0Q8nqWMsaiSt+/8IsaHKh2BJxnT0QN/t7KstrlzZrk6hAFNXIENRnr3k1tqt6iEooQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Strings and Regular Expressions - More Exercises\\03. Karate Strings\\03. Karate Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
