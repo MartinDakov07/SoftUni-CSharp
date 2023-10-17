@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\netcoreapp3.1\04. Morse Code Upgraded.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\netcoreapp3.1\04. Morse Code Upgraded.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\netcoreapp3.1\04. Morse Code Upgraded.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\netcoreapp3.1\04. Morse Code Upgraded.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\netcoreapp3.1\04. Morse Code Upgraded.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\netcoreapp3.1\04. Morse Code Upgraded.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\netcoreapp3.1\04. Morse Code Upgraded.genruntimeconfig.cache
