@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\netcoreapp3.1\05. Only Letters.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\netcoreapp3.1\05. Only Letters.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\netcoreapp3.1\05. Only Letters.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\netcoreapp3.1\05. Only Letters.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\netcoreapp3.1\05. Only Letters.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\netcoreapp3.1\05. Only Letters.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\netcoreapp3.1\05. Only Letters.genruntimeconfig.cache
