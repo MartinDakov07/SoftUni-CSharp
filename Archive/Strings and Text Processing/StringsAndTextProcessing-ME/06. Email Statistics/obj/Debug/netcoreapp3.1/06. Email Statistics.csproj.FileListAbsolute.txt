@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\bin\Debug\netcoreapp3.1\06. Email Statistics.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\bin\Debug\netcoreapp3.1\06. Email Statistics.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\bin\Debug\netcoreapp3.1\06. Email Statistics.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\bin\Debug\netcoreapp3.1\06. Email Statistics.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\bin\Debug\netcoreapp3.1\06. Email Statistics.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\bin\Debug\netcoreapp3.1\06. Email Statistics.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\06. Email Statistics\obj\Debug\netcoreapp3.1\06. Email Statistics.genruntimeconfig.cache
