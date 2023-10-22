@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\netcoreapp3.1\07. Hideout.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\netcoreapp3.1\07. Hideout.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\netcoreapp3.1\07. Hideout.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\netcoreapp3.1\07. Hideout.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\netcoreapp3.1\07. Hideout.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\netcoreapp3.1\07. Hideout.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\netcoreapp3.1\07. Hideout.genruntimeconfig.cache
