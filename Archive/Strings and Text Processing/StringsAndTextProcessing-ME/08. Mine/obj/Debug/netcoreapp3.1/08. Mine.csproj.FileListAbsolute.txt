@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\bin\Debug\netcoreapp3.1\08. Mine.exe
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\bin\Debug\netcoreapp3.1\08. Mine.deps.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\bin\Debug\netcoreapp3.1\08. Mine.runtimeconfig.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\bin\Debug\netcoreapp3.1\08. Mine.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\bin\Debug\netcoreapp3.1\08. Mine.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\bin\Debug\netcoreapp3.1\08. Mine.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.AssemblyInfo.cs
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.dll
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.pdb
+C:\Users\User\source\repos\Strings and Regular Expressions - More Exercises\08. Mine\obj\Debug\netcoreapp3.1\08. Mine.genruntimeconfig.cache
