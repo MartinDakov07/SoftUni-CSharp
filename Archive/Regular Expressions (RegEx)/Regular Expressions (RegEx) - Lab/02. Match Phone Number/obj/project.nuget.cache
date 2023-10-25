@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EoR/bcz++FQwhVOLJxaOT3l1b/5r23j/iKBVMCzd1np7NhV3SoqqM/o1OQUxaVrKXlm30ZzJT0ID1HpuzF5jXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Regular Expressions (RegEx) - Lab\\02. Match Phone Number\\02. Match Phone Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
