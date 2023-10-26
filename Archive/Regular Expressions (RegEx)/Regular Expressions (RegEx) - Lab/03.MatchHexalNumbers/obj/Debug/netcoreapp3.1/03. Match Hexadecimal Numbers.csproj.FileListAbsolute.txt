@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.exe
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.deps.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp3.1\03. Match Hexadecimal Numbers.genruntimeconfig.cache
