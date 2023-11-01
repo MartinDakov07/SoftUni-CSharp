@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\netcoreapp3.1\06. Replace a Tag.exe
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\netcoreapp3.1\06. Replace a Tag.deps.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\netcoreapp3.1\06. Replace a Tag.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\netcoreapp3.1\06. Replace a Tag.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\netcoreapp3.1\06. Replace a Tag.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\netcoreapp3.1\06. Replace a Tag.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\netcoreapp3.1\06. Replace a Tag.genruntimeconfig.cache
