@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahR5AB1c/nXpgr0eRDMEpLLGb2fHgDDq/z9QiJTF/TIu8NbAxFDTC5xHtXwFnxSjyEazk40bWcbmNB9lFvHlpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Regular Expressions (RegEx) - Exercises\\04.Weather\\04.Weather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

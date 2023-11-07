@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\bin\Debug\netcoreapp3.1\04.Weather.exe
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\bin\Debug\netcoreapp3.1\04.Weather.deps.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\bin\Debug\netcoreapp3.1\04.Weather.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\bin\Debug\netcoreapp3.1\04.Weather.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\bin\Debug\netcoreapp3.1\04.Weather.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\bin\Debug\netcoreapp3.1\04.Weather.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\04.Weather\obj\Debug\netcoreapp3.1\04.Weather.genruntimeconfig.cache
