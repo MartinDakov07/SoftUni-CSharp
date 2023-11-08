@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pmi3co9fnVXxgquqaN2dvjJ6OHxefTD5nfWBXxza1Xk73r5wdptq/xOPA2YUj4g5D8bcTQN3LJ0UlSUdLsuRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Regular Expressions (RegEx) - Exercises\\05. Key Replacer\\05. Key Replacer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

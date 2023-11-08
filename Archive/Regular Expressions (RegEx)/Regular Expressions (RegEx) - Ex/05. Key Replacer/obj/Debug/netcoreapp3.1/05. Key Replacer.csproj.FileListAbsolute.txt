@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\netcoreapp3.1\05. Key Replacer.exe
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\netcoreapp3.1\05. Key Replacer.deps.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\netcoreapp3.1\05. Key Replacer.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\netcoreapp3.1\05. Key Replacer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\netcoreapp3.1\05. Key Replacer.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\netcoreapp3.1\05. Key Replacer.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\netcoreapp3.1\05. Key Replacer.genruntimeconfig.cache
