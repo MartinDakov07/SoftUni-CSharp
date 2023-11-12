@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qi8oAjrHukoeOj6JtiWXxL5ZVOguvvTeXxsdsxZ2fHzbUI1EdLntkG/sQLfoe8DIZ6mm77cSET4p3fxx0BQN5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Regular Expressions (RegEx) - Exercises\\08. Use Your Chains, Buddy\\08. Use Your Chains, Buddy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

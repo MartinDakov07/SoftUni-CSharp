@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\bin\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.exe
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\bin\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.deps.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\bin\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\bin\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\bin\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\bin\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.dll
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.pdb
+C:\Users\User\source\repos\Regular Expressions (RegEx) - Exercises\08. Use Your Chains, Buddy\obj\Debug\netcoreapp3.1\08. Use Your Chains, Buddy.genruntimeconfig.cache
