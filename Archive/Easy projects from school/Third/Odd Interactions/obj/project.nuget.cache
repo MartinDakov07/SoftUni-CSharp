@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxStbmv5WmPF1hNPN/FN4AaisuGt9GGD+T77BEGiKxDZlVmGIu1NUZhgpXNEJblYP3hQXIugC3xBP0K5we1NYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\School projects\\Nechetni Sreshtaniq\\Nechetni Sreshtaniq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
