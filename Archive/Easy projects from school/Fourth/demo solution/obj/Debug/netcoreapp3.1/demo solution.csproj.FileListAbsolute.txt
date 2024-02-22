@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\helpProjects\demo solution\bin\Debug\netcoreapp3.1\demo solution.exe
+C:\Users\User\source\repos\helpProjects\demo solution\bin\Debug\netcoreapp3.1\demo solution.deps.json
+C:\Users\User\source\repos\helpProjects\demo solution\bin\Debug\netcoreapp3.1\demo solution.runtimeconfig.json
+C:\Users\User\source\repos\helpProjects\demo solution\bin\Debug\netcoreapp3.1\demo solution.runtimeconfig.dev.json
+C:\Users\User\source\repos\helpProjects\demo solution\bin\Debug\netcoreapp3.1\demo solution.dll
+C:\Users\User\source\repos\helpProjects\demo solution\bin\Debug\netcoreapp3.1\demo solution.pdb
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.AssemblyInfo.cs
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.dll
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.pdb
+C:\Users\User\source\repos\helpProjects\demo solution\obj\Debug\netcoreapp3.1\demo solution.genruntimeconfig.cache
