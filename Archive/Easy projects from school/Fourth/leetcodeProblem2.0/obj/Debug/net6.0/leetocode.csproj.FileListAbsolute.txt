@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\helpProjects\leetocode\bin\Debug\net6.0\leetocode.exe
+C:\Users\User\source\repos\helpProjects\leetocode\bin\Debug\net6.0\leetocode.deps.json
+C:\Users\User\source\repos\helpProjects\leetocode\bin\Debug\net6.0\leetocode.runtimeconfig.json
+C:\Users\User\source\repos\helpProjects\leetocode\bin\Debug\net6.0\leetocode.dll
+C:\Users\User\source\repos\helpProjects\leetocode\bin\Debug\net6.0\leetocode.pdb
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.AssemblyInfo.cs
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.dll
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\refint\leetocode.dll
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.pdb
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\leetocode.genruntimeconfig.cache
+C:\Users\User\source\repos\helpProjects\leetocode\obj\Debug\net6.0\ref\leetocode.dll
